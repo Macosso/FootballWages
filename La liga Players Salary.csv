@@ -1,0 +1,576 @@
+﻿Player Name,Weekly Wage,Yearly Salary,Age,Position,Nationality,Team
+Fernando Pacheco,30000.0,1560000.0,29.0,GK,Spain,Alavés
+Florian Lejeune,29000.0,1508000.0,30.0,D C,France,Alavés
+Facundo Pellistri,27000.0,1404000.0,19.0,"AM R, ST",Uruguay,Alavés
+Matt Miazga,16000.0,832000.0,25.0,D C,U.S.A.,Alavés
+Joselu,16000.0,832000.0,31.0,ST,Spain,Alavés
+Iván Martín,13000.0,676000.0,22.0,AM RLC,Spain,Alavés
+Luis Rioja,12000.0,624000.0,27.0,AM RL,Spain,Alavés
+Édgar Méndez,12000.0,624000.0,31.0,AM RL,Spain,Alavés
+Manu García,11000.0,572000.0,23.0,AM C,Spain,Alavés
+Tomás Pina,10000.0,520000.0,33.0,DM,Spain,Alavés
+Pere Pons,10000.0,520000.0,28.0,DM,Spain,Alavés
+Víctor Laguardia,9000.0,468000.0,31.0,D C,Spain,Alavés
+Rubén Duarte,8000.0,416000.0,25.0,D LC,Spain,Alavés
+Mamadou Loum,6900.0,358800.0,24.0,DM,Senegal,Alavés
+Ximo Navarro,6400.0,332800.0,31.0,D RC,Spain,Alavés
+Martín Aguirregabiría,5900.0,306800.0,24.0,D/WB R,Spain,Alavés
+Antonio Sivera,5500.0,286000.0,24.0,GK,Spain,Alavés
+Saúl,4600.0,239200.0,26.0,D/WB L,Spain,Alavés
+Tachi,4600.0,239200.0,23.0,D C,Spain,Alavés
+Toni Moya,4600.0,239200.0,23.0,M C,Spain,Alavés
+John Guidetti,4100.0,213200.0,29.0,ST,Sweden,Alavés
+Javi López,3100.0,161200.0,19.0,D/WB L,Spain,Alavés
+Miguel De la Fuente,2900.0,150800.0,21.0,ST,Spain,Alavés
+Mamadou Sylla,2900.0,150800.0,27.0,"AM R, ST",Spain,Alavés
+Dominik Földi,60.0,3120.0,17.0,"AM L, ST",Hungary,Alavés
+Iñaki Williams,189000.0,9828000.0,27.0,"AM RLC, F C",Spain,A. Bilbao
+Íñigo Martínez,147000.0,7644000.0,30.0,D C,Spain,A. Bilbao
+Raúl García,93000.0,4836000.0,35.0,AM/F C,Spain,A. Bilbao
+Yuri,71000.0,3692000.0,31.0,D/WB L,Spain,A. Bilbao
+Unai Simón,55000.0,2860000.0,24.0,GK,Spain,A. Bilbao
+Iker Muniain,37000.0,1924000.0,28.0,AM RLC,Spain,A. Bilbao
+Yeray,26000.0,1352000.0,26.0,D C,Spain,A. Bilbao
+Ander Capa,26000.0,1352000.0,29.0,D/WB/AM R,Spain,A. Bilbao
+Dani García,22000.0,1144000.0,31.0,DM,Spain,A. Bilbao
+Álex Berenguer,21000.0,1092000.0,26.0,"WB L, AM RLC",Spain,A. Bilbao
+Unai Núñez,18000.0,936000.0,24.0,D C,Spain,A. Bilbao
+Mikel Vesga,18000.0,936000.0,28.0,DM,Spain,A. Bilbao
+Asier Villalibre,16000.0,832000.0,23.0,ST,Spain,A. Bilbao
+Unai Vencedor,15000.0,780000.0,20.0,DM,Spain,A. Bilbao
+Jon Morcillo,14000.0,728000.0,22.0,"AM RL, ST",Spain,A. Bilbao
+Jokin Ezkieta,12000.0,624000.0,24.0,GK,Spain,A. Bilbao
+Dani Vivian,12000.0,624000.0,22.0,"D C, DM",Spain,A. Bilbao
+Oihan Sancet,11000.0,572000.0,21.0,AM C,Spain,A. Bilbao
+Óscar De Marcos,10000.0,520000.0,32.0,D/WB/AM R,Spain,A. Bilbao
+Mikel Balenziaga,8900.0,462800.0,33.0,D/WB/AM L,Spain,A. Bilbao
+Íñigo Lekue,6000.0,312000.0,28.0,"D/WB RL, AM R",Spain,A. Bilbao
+Peru Nolaskoain,4800.0,249600.0,22.0,"D C, DM",Spain,A. Bilbao
+Oier Zarraga,4800.0,249600.0,22.0,AM C,Spain,A. Bilbao
+Álex Petxarromán,3000.0,156000.0,24.0,D R,Spain,A. Bilbao
+Antoine Griezmann,351000.0,18252000.0,30.0,"AM RLC, F C",France,A. Madrid
+Luis Suárez,263000.0,13676000.0,34.0,ST,Uruguay,A. Madrid
+Koke,262000.0,13624000.0,29.0,M RLC,Spain,A. Madrid
+Jan Oblak,253000.0,13156000.0,28.0,GK,Slovenia,A. Madrid
+João Félix,154000.0,8008000.0,21.0,"AM RLC, F C",Portugal,A. Madrid
+Mario Hermoso,141000.0,7332000.0,26.0,D LC,Spain,A. Madrid
+Yannick Carrasco,141000.0,7332000.0,27.0,"WB L, AM RL",Belgium,A. Madrid
+Geoffrey Kondogbia,107000.0,5564000.0,28.0,DM,Central African Rep.,A. Madrid
+Thomas Lemar,106000.0,5512000.0,25.0,"WB L, AM RLC",France,A. Madrid
+Šime Vrsaljko,85000.0,4420000.0,29.0,D/WB/M R,Croatia,A. Madrid
+Marcos Llorente,84000.0,4368000.0,26.0,"WB R, DM, AM/F C",Spain,A. Madrid
+José Giménez,82000.0,4264000.0,26.0,D C,Uruguay,A. Madrid
+Ángel Correa,82000.0,4264000.0,26.0,"AM RLC, F C",Argentina,A. Madrid
+Felipe,76000.0,3952000.0,32.0,D C,Brazil,A. Madrid
+Stefan Savić,72000.0,3744000.0,30.0,D C,Montenegro,A. Madrid
+Matheus Cunha,65000.0,3380000.0,22.0,"AM RLC, F C",Brazil,A. Madrid
+Renan Lodi,64000.0,3328000.0,23.0,D/WB/M L,Brazil,A. Madrid
+Héctor Herrera,52000.0,2704000.0,31.0,M C,Mexico,A. Madrid
+Benjamin Lecomte,33000.0,1716000.0,30.0,GK,France,A. Madrid
+Rodrigo De Paul,28000.0,1456000.0,27.0,AM RLC,Argentina,A. Madrid
+Ivan Šaponjić,9100.0,473200.0,23.0,ST,Serbia,A. Madrid
+Ousmane Dembélé,287000.0,14924000.0,24.0,AM RL,France,Barcelona
+Samuel Umtiti,263000.0,13676000.0,27.0,D C,France,Barcelona
+Sergio Busquets,253000.0,13156000.0,32.0,DM,Spain,Barcelona
+Jordi Alba,231000.0,12012000.0,32.0,D/WB/M L,Spain,Barcelona
+Sergi Roberto,164000.0,8528000.0,29.0,"D/WB R, DM, M RC",Spain,Barcelona
+Frenkie de Jong,164000.0,8528000.0,24.0,"D C, DM",Holland,Barcelona
+Memphis Depay,158000.0,8216000.0,27.0,"AM LC, F C",Holland,Barcelona
+Sergio Agüero,158000.0,8216000.0,33.0,AM/F C,Argentina,Barcelona
+Pierre-Emerick Aubameyang,250000.0,7800000.0,32.0,"AM RL, ST",Gabon,Barcelona
+Marc-André ter Stegen,141000.0,7332000.0,29.0,GK,Germany,Barcelona
+Ferran Torres,110000.0,5720000.0,21.0,AM RL,Spain,Barcelona
+Gerard Piqué,103000.0,5356000.0,34.0,D C,Spain,Barcelona
+Neto,98000.0,5096000.0,31.0,GK,Brazil,Barcelona
+Martin Braithwaite,98000.0,5096000.0,30.0,"AM RL, ST",Denmark,Barcelona
+Clément Lenglet,97000.0,5044000.0,26.0,D C,France,Barcelona
+Ansu Fati,69000.0,3588000.0,18.0,"AM RL, ST",Spain,Barcelona
+Sergiño Dest,64000.0,3328000.0,20.0,D/WB RL,U.S.A.,Barcelona
+Riqui Puig,64000.0,3328000.0,21.0,AM C,Spain,Barcelona
+Eric García,51000.0,2652000.0,20.0,D C,Spain,Barcelona
+Ronald Araújo,35000.0,1820000.0,22.0,D C,Uruguay,Barcelona
+Pedri,32000.0,1664000.0,18.0,AM RLC,Spain,Barcelona
+Luuk de Jong,25000.0,1300000.0,30.0,ST,Holland,Barcelona
+Óscar Mingueza,19000.0,988000.0,22.0,D RC,Spain,Barcelona
+Álex Collado,15000.0,780000.0,22.0,AM RLC,Spain,Barcelona
+Iñaki Peña,12000.0,624000.0,22.0,GK,Spain,Barcelona
+Nico,10000.0,520000.0,19.0,DM,Spain,Barcelona
+Moussa Wagué,8900.0,462800.0,22.0,D/WB R,Senegal,Barcelona
+Alejandro Balde,3500.0,182000.0,18.0,D/WB/AM L,Spain,Barcelona
+Gavi,2200.0,114400.0,16.0,"DM, AM C",Spain,Barcelona
+Yusuf Demir,1300.0,67600.0,18.0,"AM RLC, F C",Austria,Barcelona
+Nabil Fekir,113000.0,5876000.0,27.0,"AM, ST",France,Real Hispalis
+Marc Bartra,113000.0,5876000.0,29.0,"D, DM",Spain,Real Hispalis
+Martín Montoya,49000.0,2548000.0,29.0,"D, WB",Spain,Real Hispalis
+William Carvalho,39000.0,2028000.0,28.0,DM,Portugal,Real Hispalis
+Joaquín,37000.0,1924000.0,39.0,"M, AM",Spain,Real Hispalis
+Aïssa Mandi,33000.0,1716000.0,28.0,D,Algeria,Real Hispalis
+Guido Rodríguez,33000.0,1716000.0,26.0,"DM, M",Argentina,Real Hispalis
+Borja Iglesias,31000.0,1612000.0,27.0,ST,Spain,Real Hispalis
+Emerson,30000.0,1560000.0,21.0,D/WB,Brazil,Real Hispalis
+Andrés Guardado,29000.0,1508000.0,33.0,"WB, DM, M/AM",Mexico,Real Hispalis
+Sergio Canales,27000.0,1404000.0,29.0,M/AM,Spain,Real Hispalis
+Claudio Bravo,24000.0,1248000.0,37.0,GK,Chile,Real Hispalis
+Cristian Tello,24000.0,1248000.0,28.0,M/AM,Spain,Real Hispalis
+Víctor Ruiz,21000.0,1092000.0,31.0,D,Spain,Real Hispalis
+Loren,19000.0,988000.0,26.0,ST,Spain,Real Hispalis
+Juanmi,19000.0,988000.0,27.0,"AM, ST",Spain,Real Hispalis
+Sídnei,18000.0,936000.0,30.0,D,Brazil,Real Hispalis
+Àlex Moreno,14000.0,728000.0,27.0,D/WB/M/AM,Spain,Real Hispalis
+Joel Robles,12000.0,624000.0,30.0,GK,Spain,Real Hispalis
+Víctor Camarasa,10000.0,520000.0,26.0,"DM, M/AM",Spain,Real Hispalis
+Paul Akouokou,7800.0,405600.0,22.0,"DM, M",Ivory Coast,Real Hispalis
+Aitor Ruibal,7500.0,390000.0,24.0,"AM, ST",Spain,Real Hispalis
+Diego Laínez,7400.0,384800.0,20.0,AM,Mexico,Real Hispalis
+Juan Miranda,7100.0,369200.0,20.0,D/WB/M,Spain,Real Hispalis
+Dani Martín,5400.0,280800.0,22.0,GK,Spain,Real Hispalis
+Yassin Fekir,2300.0,119600.0,23.0,AM,Algeria,Real Hispalis
+Denis Suárez,97000.0,5044000.0,27.0,AM LC,Spain,Vigo
+Iago Aspas,48000.0,2496000.0,33.0,"AM RC, F C",Spain,Vigo
+Javi Galán,43000.0,2236000.0,26.0,D/WB/M L,Spain,Vigo
+Santi Mina,30000.0,1560000.0,25.0,ST,Spain,Vigo
+Hugo Mallo,29000.0,1508000.0,30.0,D RC,Spain,Vigo
+Okay Yokuşlu,29000.0,1508000.0,27.0,DM,Turkey,Vigo
+Jeison Murillo,27000.0,1404000.0,29.0,D C,Colombia,Vigo
+Brais Méndez,27000.0,1404000.0,24.0,AM RC,Spain,Vigo
+Joseph Aidoo,21000.0,1092000.0,25.0,D C,Ghana,Vigo
+Néstor Araujo,21000.0,1092000.0,29.0,D C,Mexico,Vigo
+Nolito,21000.0,1092000.0,34.0,AM LC,Spain,Vigo
+Renato Tapia,17000.0,884000.0,25.0,"D C, DM",Peru,Vigo
+Fran Beltrán,16000.0,832000.0,22.0,DM,Spain,Vigo
+Franco Cervi,16000.0,832000.0,27.0,AM L,Argentina,Vigo
+Rubén Blanco,15000.0,780000.0,25.0,GK,Spain,Vigo
+Kevin,9000.0,468000.0,28.0,D/WB R,Spain,Vigo
+Augusto Solari,8500.0,442000.0,29.0,D/WB/AM R,Argentina,Vigo
+José Fontán,8100.0,421200.0,21.0,D LC,Spain,Vigo
+Matías Dituro,7900.0,410800.0,34.0,GK,Argentina,Vigo
+Thiago Galhardo,7000.0,364000.0,31.0,AM/F C,Brazil,Vigo
+Miguel Baeza,6900.0,358800.0,21.0,AM RLC,Spain,Vigo
+Edu Expósito,20000.0,1040000.0,24.0,M C,Spain,Eibar
+Gustavo Blanco Leschuk,16000.0,832000.0,29.0,ST,Argentina,Eibar
+Esteban Burgos,12000.0,624000.0,29.0,D C,Argentina,Eibar
+Yoel,11000.0,572000.0,32.0,GK,Spain,Eibar
+Álvaro Tejero,11000.0,572000.0,24.0,D/WB RL,Spain,Eibar
+Sergio Álvarez,11000.0,572000.0,29.0,DM,Spain,Eibar
+Ander Cantero,9500.0,494000.0,26.0,GK,Spain,Eibar
+Toño,9000.0,468000.0,31.0,D/WB L,Spain,Eibar
+Xabi Etxeita,8000.0,416000.0,33.0,D C,Spain,Eibar
+Quique,7700.0,400400.0,31.0,"AM RLC, F C",Spain,Eibar
+Cristian Glauder,7400.0,384800.0,25.0,D LC,Spain,Eibar
+Ager Aketxe,6500.0,338000.0,27.0,AM RLC,Spain,Eibar
+Frederico Venâncio,6300.0,327600.0,28.0,D C,Portugal,Eibar
+Fran Sol,6300.0,327600.0,29.0,ST,Spain,Eibar
+Javi Muñoz,6100.0,317200.0,26.0,AM C,Spain,Eibar
+José Corpas,6100.0,317200.0,30.0,AM RL,Spain,Eibar
+Roberto Correa,5700.0,296400.0,28.0,D/WB R,Spain,Eibar
+Óscar Sielva,5000.0,260000.0,29.0,DM,Spain,Eibar
+Stoichkov,4600.0,239200.0,27.0,"AM LC, F C",Spain,Eibar
+Roberto Olabe,3700.0,192400.0,25.0,"DM, AM LC",Spain,Eibar
+Fran Feuillassier,3300.0,171600.0,23.0,AM RL,Argentina,Eibar
+Anaitz Arbilla,2500.0,130000.0,34.0,"D RLC, AM C",Spain,Eibar
+Yanis Rahmani,2300.0,119600.0,26.0,"AM LC, F C",France,Eibar
+Miguel Atienza,1900.0,98800.0,22.0,DM,Spain,Eibar
+Raúl De Tomás,80000.0,4160000.0,26.0,ST,Spain,Espanyol
+David López,59000.0,3068000.0,31.0,"D C, DM",Spain,Espanyol
+Wu Lei,31000.0,1612000.0,29.0,"AM RLC, F C",China,Espanyol
+Sergi Darder,29000.0,1508000.0,27.0,DM,Spain,Espanyol
+Adrián Embarba,20000.0,1040000.0,29.0,AM RL,Spain,Espanyol
+Aleix Vidal,19000.0,988000.0,31.0,"D/WB R, AM RL",Spain,Espanyol
+Sergi Gómez,17000.0,884000.0,28.0,D C,Spain,Espanyol
+Leandro Cabrera,17000.0,884000.0,30.0,D LC,Uruguay,Espanyol
+Manu Morlanes,16000.0,832000.0,22.0,"DM, AM C",Spain,Espanyol
+Yangel Herrera,16000.0,832000.0,23.0,DM,Venezuela,Espanyol
+Loren,16000.0,832000.0,27.0,ST,Spain,Espanyol
+Fernando Calero,12000.0,624000.0,25.0,D C,Spain,Espanyol
+Oier Olazabal,10000.0,520000.0,31.0,GK,Spain,Espanyol
+Álvaro Vadillo,10000.0,520000.0,26.0,AM RL,Spain,Espanyol
+Diego López,9400.0,488800.0,39.0,GK,Spain,Espanyol
+Óscar Gil,8000.0,416000.0,23.0,D/WB R,Spain,Espanyol
+Landry Dimata,8000.0,416000.0,23.0,ST,Belgium,Espanyol
+Keidi Bare,7000.0,364000.0,23.0,DM,Albania,Espanyol
+Adrià Pedrosa,6500.0,338000.0,23.0,D/WB L,Spain,Espanyol
+Fran Mérida,6300.0,327600.0,31.0,M C,Spain,Espanyol
+Óscar Melendo,5000.0,260000.0,23.0,AM RC,Spain,Espanyol
+Miguelón,4900.0,254800.0,25.0,D/WB R,Spain,Espanyol
+Dídac Vilà,4400.0,228800.0,32.0,D/WB L,Spain,Espanyol
+Nico Melamed,2900.0,150800.0,20.0,AM RLC,Spain,Espanyol
+Javi Puado,2100.0,109200.0,23.0,"AM RLC, F C",Spain,Espanyol
+Vitolo,177000.0,9204000.0,31.0,AM RLC,Spain,Getafe
+Carles Aleñá,68000.0,3536000.0,23.0,AM C,Spain,Getafe
+Djéné Dakonam,38000.0,1976000.0,29.0,"D RC, DM",Togo,Getafe
+Sandro,28000.0,1456000.0,26.0,"AM RL, ST",Spain,Getafe
+David Soria,27000.0,1404000.0,28.0,GK,Spain,Getafe
+Jakub Jankto,24000.0,1248000.0,25.0,AM RLC,Czech Republic,Getafe
+Mauro Arambarri,19000.0,988000.0,25.0,"DM, M RC",Uruguay,Getafe
+Nemanja Maksimović,19000.0,988000.0,26.0,"DM, M RC",Serbia,Getafe
+Damián Suárez,18000.0,936000.0,33.0,D/WB R,Uruguay,Getafe
+Florentino Luís,18000.0,936000.0,21.0,DM,Portugal,Getafe
+Jaime Mata,17000.0,884000.0,32.0,ST,Spain,Getafe
+Enes Ünal,17000.0,884000.0,24.0,ST,Turkey,Getafe
+Mathías Olivera,16000.0,832000.0,23.0,D/WB L,Uruguay,Getafe
+Jorge Cuenca,16000.0,832000.0,21.0,D C,Spain,Getafe
+Allan Nyom,14000.0,728000.0,33.0,D/WB/M R,Cameroon,Getafe
+Chema,13000.0,676000.0,29.0,D C,Spain,Getafe
+Erick Cabaco,13000.0,676000.0,26.0,D C,Uruguay,Getafe
+José Juan Macías,10000.0,520000.0,21.0,"AM L, ST",Mexico,Getafe
+David Timor,9400.0,488800.0,31.0,AM C,Spain,Getafe
+Stefan Mitrović,8600.0,447200.0,31.0,D C,Serbia,Getafe
+Jonathan Silva,8100.0,421200.0,27.0,D/WB L,Argentina,Getafe
+Rubén Yáñez,3700.0,192400.0,27.0,GK,Spain,Getafe
+Darío Poveda,3400.0,176800.0,24.0,ST,Spain,Getafe
+Santiago Arias,23000.0,1196000.0,29.0,D/WB R,Colombia,Granada
+Rubén Rochina,23000.0,1196000.0,30.0,AM RLC,Spain,Granada
+Domingos Duarte,20000.0,1040000.0,26.0,D C,Portugal,Granada
+Maxime Gonalons,16000.0,832000.0,32.0,DM,France,Granada
+Carlos Bacca,16000.0,832000.0,34.0,ST,Colombia,Granada
+Sergio Escudero,14000.0,728000.0,31.0,D/WB/M L,Spain,Granada
+Luis Suárez,14000.0,728000.0,23.0,ST,Colombia,Granada
+Luis Milla,13000.0,676000.0,26.0,DM,Spain,Granada
+Darwin Machís,12000.0,624000.0,28.0,"AM RL, ST",Venezuela,Granada
+Jorge Molina,12000.0,624000.0,39.0,ST,Spain,Granada
+Luis Abram,10000.0,520000.0,25.0,D C,Peru,Granada
+Antonio Puertas,9500.0,494000.0,29.0,AM RLC,Spain,Granada
+Luís Maximiano,9000.0,468000.0,22.0,GK,Portugal,Granada
+Víctor Díaz,8500.0,442000.0,33.0,D RLC,Spain,Granada
+Germán,8200.0,426400.0,34.0,D C,Spain,Granada
+Aarón Escandell,7500.0,390000.0,25.0,GK,Spain,Granada
+Carlos Neva,7400.0,384800.0,25.0,D/WB/AM L,Spain,Granada
+Ángel Montoro,7000.0,364000.0,33.0,DM,Spain,Granada
+Neyder Lozano,4900.0,254800.0,27.0,D C,Colombia,Granada
+Alberto Soro,4500.0,234000.0,22.0,AM RLC,Spain,Granada
+Yan Eteki,4300.0,223600.0,23.0,DM,Cameroon,Granada
+Monchu,3900.0,202800.0,21.0,DM,Spain,Granada
+Quini,3700.0,192400.0,31.0,D/WB RL,Spain,Granada
+João Costa,3100.0,161200.0,25.0,GK,Portugal,Granada
+Javier Eraso,15000.0,780000.0,31.0,"DM, AM C",Spain,Leganés
+José Arnáiz,14000.0,728000.0,26.0,"AM RL, ST",Spain,Leganés
+Bruno,13000.0,676000.0,31.0,D C,Spain,Leganés
+Kenneth Omeruo,13000.0,676000.0,27.0,D RC,Nigeria,Leganés
+Gaku Shibasaki,13000.0,676000.0,29.0,AM LC,Japan,Leganés
+Jon Bautista,11000.0,572000.0,26.0,ST,Spain,Leganés
+Recio,10000.0,520000.0,30.0,DM,Spain,Leganés
+Rubén Pardo,10000.0,520000.0,28.0,M C,Spain,Leganés
+Cheick Doukouré,9400.0,488800.0,28.0,DM,Ivory Coast,Leganés
+Fede Vico,9300.0,483600.0,27.0,AM RLC,Spain,Leganés
+Rodrigo Tarín,8700.0,452400.0,25.0,D C,Spain,Leganés
+Iván Villar,8100.0,421200.0,24.0,GK,Spain,Leganés
+Juan Muñoz,8100.0,421200.0,25.0,ST,Spain,Leganés
+Unai Bustinza,8000.0,416000.0,29.0,D RC,Spain,Leganés
+Sergi Palencia,7600.0,395200.0,25.0,D/WB RL,Spain,Leganés
+Xavi Quintillà,7400.0,384800.0,24.0,D LC,Spain,Leganés
+Sabin Merino,6600.0,343200.0,29.0,"AM L, ST",Spain,Leganés
+Asier Riesgo,6500.0,338000.0,37.0,GK,Spain,Leganés
+Yoel Bárcenas,5300.0,275600.0,27.0,"WB R, AM RLC",Panama,Leganés
+Borja Garcés,4500.0,234000.0,21.0,ST,Spain,Leganés
+Luis Perea,4000.0,208000.0,23.0,"D C, DM",Spain,Leganés
+Lazar Ranđelović,4000.0,208000.0,23.0,AM RL,Serbia,Leganés
+Sergio González,2600.0,135200.0,29.0,D C,Spain,Leganés
+Javi Hernández,2100.0,109200.0,23.0,D LC,Spain,Leganés
+Nassourou Ndongo,300.0,15600.0,18.0,AM C,Cameroon,Leganés
+Javier Avilés,250.0,13000.0,23.0,AM R,Spain,Leganés
+José Campaña,33000.0,1716000.0,28.0,"DM, AM C",Spain,Levante
+José Morales,28000.0,1456000.0,33.0,"AM RL, ST",Spain,Levante
+Aitor Fernández,25000.0,1300000.0,30.0,GK,Spain,Levante
+Enis Bardhi,25000.0,1300000.0,26.0,AM LC,North Macedonia,Levante
+Coke,24000.0,1248000.0,34.0,"D RC, M R",Spain,Levante
+Shkodran Mustafi,19000.0,988000.0,29.0,D C,Germany,Levante
+Nikola Vukčević,19000.0,988000.0,29.0,DM,Montenegro,Levante
+Carlos Clerc,18000.0,936000.0,29.0,D/WB L,Spain,Levante
+Rúben Vezo,18000.0,936000.0,27.0,D C,Portugal,Levante
+Dani Gómez,18000.0,936000.0,22.0,ST,Spain,Levante
+Gonzalo Melero,17000.0,884000.0,27.0,"DM, AM C",Spain,Levante
+Nemanja Radoja,16000.0,832000.0,28.0,DM,Serbia,Levante
+Hernâni,15000.0,780000.0,29.0,AM RL,Portugal,Levante
+Roger Martí,15000.0,780000.0,30.0,ST,Spain,Levante
+Dani Cárdenas,14000.0,728000.0,24.0,GK,Spain,Levante
+Jorge De Frutos,14000.0,728000.0,24.0,AM RL,Spain,Levante
+Roberto Soldado,14000.0,728000.0,36.0,ST,Spain,Levante
+Enric Franquesa,13000.0,676000.0,24.0,D/WB/M L,Spain,Levante
+Jorge Miramón,11000.0,572000.0,32.0,D/WB/AM R,Spain,Levante
+Oscar Duarte,10000.0,520000.0,32.0,D C,Costa Rica,Levante
+Mickaël Malsa,10000.0,520000.0,25.0,DM,Martinique,Levante
+Son,9000.0,468000.0,27.0,D/WB/AM R,Spain,Levante
+Pablo Martínez,9000.0,468000.0,23.0,AM LC,Spain,Levante
+Róber Pier,8700.0,452400.0,26.0,"D C, DM",Spain,Levante
+Sergio Postigo,8000.0,416000.0,32.0,D RC,Spain,Levante
+Pepelu,7800.0,405600.0,22.0,DM,Spain,Levante
+Álex Blesa,2000.0,104000.0,19.0,"DM, AM C",Spain,Levante
+Álex Cantero,2000.0,104000.0,21.0,"AM RL, ST",Spain,Levante
+Takefusa Kubo,33000.0,1716000.0,20.0,AM/F C,Japan,Mallorca
+Pablo Maffeo,24000.0,1248000.0,24.0,D/WB R,Spain,Mallorca
+Rodrigo Battaglia,21000.0,1092000.0,30.0,DM,Argentina,Mallorca
+Ángel,15000.0,780000.0,34.0,ST,Spain,Mallorca
+Fer Niño,14000.0,728000.0,20.0,ST,Spain,Mallorca
+Amath N'Diaye,13000.0,676000.0,24.0,"AM RL, ST",Senegal,Mallorca
+Kang-In Lee,10000.0,520000.0,20.0,AM RLC,South Korea,Mallorca
+Jordi Mboula,10000.0,520000.0,22.0,AM R,Spain,Mallorca
+Jaume Costa,9100.0,473200.0,33.0,D/WB RL,Spain,Mallorca
+Martin Valjent,8900.0,462800.0,25.0,D RC,Slovakia,Mallorca
+Dani Rodríguez,8400.0,436800.0,33.0,"DM, AM RLC",Spain,Mallorca
+Aleix Febas,7500.0,390000.0,25.0,"DM, AM C",Spain,Mallorca
+Íñigo Ruiz de Galarreta,7000.0,364000.0,27.0,M C,Spain,Mallorca
+Dominik Greif,6400.0,332800.0,24.0,GK,Slovakia,Mallorca
+Brian Oliván,5500.0,286000.0,27.0,D/WB L,Spain,Mallorca
+Salva Sevilla,4600.0,239200.0,37.0,AM RC,Spain,Mallorca
+Aleksandar Sedlar,4500.0,234000.0,29.0,D RC,Serbia,Mallorca
+Franco Russo,4300.0,223600.0,26.0,D C,Argentina,Mallorca
+Lago Júnior,4000.0,208000.0,30.0,"AM RL, ST",Ivory Coast,Mallorca
+Antonio Raíllo,3500.0,182000.0,29.0,"D C, DM",Spain,Mallorca
+Antonio Sánchez,3500.0,182000.0,23.0,"DM, AM C",Spain,Mallorca
+Abdón Prats,3500.0,182000.0,28.0,AM/F C,Spain,Mallorca
+Joan Sastre,3100.0,161200.0,24.0,D/WB R,Spain,Mallorca
+Iddrisu Baba,3100.0,161200.0,25.0,DM,Ghana,Mallorca
+Manolo Reina,2900.0,150800.0,36.0,GK,Spain,Mallorca
+Matthew Hoppe,1900.0,98800.0,20.0,ST,U.S.A.,Mallorca
+Jony,29000.0,1508000.0,29.0,WB/M/AM,Spain,Atlético Pamplona
+Ezequiel Ávila,25000.0,1300000.0,26.0,"AM, ST",Argentina,Atlético Pamplona
+Rubén García,19000.0,988000.0,27.0,M/AM,Spain,Atlético Pamplona
+Jonathan Calleri,17000.0,884000.0,26.0,ST,Argentina,Atlético Pamplona
+Facundo Roncaglia,15000.0,780000.0,33.0,D,Argentina,Atlético Pamplona
+Rubén,14000.0,728000.0,36.0,GK,Spain,Atlético Pamplona
+Roberto Torres,14000.0,728000.0,31.0,"M, AM",Spain,Atlético Pamplona
+Adrián,13000.0,676000.0,32.0,"AM, ST",Spain,Atlético Pamplona
+Darko Brašanac,12000.0,624000.0,28.0,M/AM,Serbia,Atlético Pamplona
+Enric Gallego,12000.0,624000.0,33.0,ST,Spain,Atlético Pamplona
+Sergio Herrera,10000.0,520000.0,27.0,GK,Spain,Atlético Pamplona
+Nacho Vidal,8900.0,462800.0,25.0,D/WB,Spain,Atlético Pamplona
+Oier,8800.0,457600.0,34.0,"D, DM, M",Spain,Atlético Pamplona
+Unai García,8500.0,442000.0,28.0,D,Spain,Atlético Pamplona
+Juan Pérez,8100.0,421200.0,24.0,GK,Spain,Atlético Pamplona
+Ante Budimir,7500.0,390000.0,29.0,ST,Croatia,Atlético Pamplona
+Aridane,7500.0,390000.0,31.0,D,Spain,Atlético Pamplona
+David García,7400.0,384800.0,26.0,D,Spain,Atlético Pamplona
+Lucas Torró,7000.0,364000.0,26.0,"DM, M",Spain,Atlético Pamplona
+Jonás Ramalho,6100.0,317200.0,27.0,D,Angola,Atlético Pamplona
+Manu Sánchez,5900.0,306800.0,19.0,D/WB,Spain,Atlético Pamplona
+Kike Barja,5000.0,260000.0,23.0,M/AM,Spain,Atlético Pamplona
+Juan Cruz,4100.0,213200.0,27.0,"D, WB/M",Spain,Atlético Pamplona
+Jon Moncayola,4100.0,213200.0,22.0,"DM, M",Spain,Atlético Pamplona
+Íñigo Pérez,4000.0,208000.0,32.0,"D/WB, DM, M",Spain,Atlético Pamplona
+Gareth Bale,528000.0,27456000.0,31.0,"AM RLC, F C",Wales,Real Madrid
+Eden Hazard,381000.0,19812000.0,30.0,AM RLC,Belgium,Real Madrid
+David Alaba,359000.0,18668000.0,29.0,"D LC, M C",Austria,Real Madrid
+Toni Kroos,307000.0,15964000.0,31.0,DM,Germany,Real Madrid
+Luka Modrić,275000.0,14300000.0,35.0,AM C,Croatia,Real Madrid
+Karim Benzema,275000.0,14300000.0,33.0,ST,France,Real Madrid
+Thibaut Courtois,253000.0,13156000.0,29.0,GK,Belgium,Real Madrid
+Marcelo,249000.0,12948000.0,33.0,D/WB/M L,Brazil,Real Madrid
+Isco,211000.0,10972000.0,29.0,AM RLC,Spain,Real Madrid
+Casemiro,184000.0,9568000.0,29.0,DM,Brazil,Real Madrid
+Vinícius Júnior,184000.0,9568000.0,20.0,"AM RL, ST",Brazil,Real Madrid
+Ferland Mendy,152000.0,7904000.0,26.0,D/WB L,France,Real Madrid
+Éder Militão,152000.0,7904000.0,23.0,D C,Brazil,Real Madrid
+Dani Carvajal,152000.0,7904000.0,29.0,D/WB R,Spain,Real Madrid
+Luka Jović,152000.0,7904000.0,23.0,ST,Serbia,Real Madrid
+Nacho,132000.0,6864000.0,31.0,D RLC,Spain,Real Madrid
+Rodrygo,132000.0,6864000.0,20.0,"AM RL, ST",Brazil,Real Madrid
+Dani Ceballos,128000.0,6656000.0,24.0,M C,Spain,Real Madrid
+Marco Asensio,117000.0,6084000.0,25.0,AM RLC,Spain,Real Madrid
+Lucas Vázquez,105000.0,5460000.0,30.0,D/WB/AM R,Spain,Real Madrid
+Mariano,105000.0,5460000.0,27.0,ST,Dominican Republic,Real Madrid
+Federico Valverde,68000.0,3536000.0,22.0,DM,Uruguay,Real Madrid
+Jesús Vallejo,33000.0,1716000.0,24.0,D C,Spain,Real Madrid
+Eduardo Camavinga,22000.0,1144000.0,18.0,DM,France,Real Madrid
+Andriy Lunin,6500.0,338000.0,22.0,GK,Ukraine,Real Madrid
+David Silva,88000.0,4576000.0,35.0,AM RLC,Spain,Real San Sebastián
+Adnan Januzaj,76000.0,3952000.0,26.0,AM RL,Belgium,Real San Sebastián
+Mikel Merino,53000.0,2756000.0,25.0,M C,Spain,Real San Sebastián
+Alexander Sørloth,52000.0,2704000.0,25.0,ST,Norway,Real San Sebastián
+Asier Illarramendi,50000.0,2600000.0,31.0,DM,Spain,Real San Sebastián
+Alexander Isak,48000.0,2496000.0,21.0,ST,Sweden,Real San Sebastián
+Nacho Monreal,42000.0,2184000.0,35.0,D LC,Spain,Real San Sebastián
+Aritz Elustondo,39000.0,2028000.0,27.0,D RC,Spain,Real San Sebastián
+Mathew Ryan,37000.0,1924000.0,29.0,GK,Australia,Real San Sebastián
+Igor Zubeldia,37000.0,1924000.0,24.0,"D C, DM",Spain,Real San Sebastián
+Álex Remiro,36000.0,1872000.0,26.0,GK,Spain,Real San Sebastián
+Mikel Oyarzábal,36000.0,1872000.0,24.0,"AM RLC, F C",Spain,Real San Sebastián
+Robin Le Normand,34000.0,1768000.0,24.0,D C,France,Real San Sebastián
+Portu,32000.0,1664000.0,29.0,AM RC,Spain,Real San Sebastián
+Ander Barrenetxea,27000.0,1404000.0,19.0,AM RL,Spain,Real San Sebastián
+Andoni Gorosabel,26000.0,1352000.0,24.0,D/WB R,Spain,Real San Sebastián
+Ander Guevara,20000.0,1040000.0,24.0,DM,Spain,Real San Sebastián
+Martín Zubimendi,20000.0,1040000.0,22.0,DM,Spain,Real San Sebastián
+Carlos Fernández,20000.0,1040000.0,25.0,AM/F C,Spain,Real San Sebastián
+Jon Guridi,19000.0,988000.0,26.0,"DM, AM C",Spain,Real San Sebastián
+Aihen Muñoz,18000.0,936000.0,23.0,D/WB L,Spain,Real San Sebastián
+Joseba Zaldua,17000.0,884000.0,29.0,D/WB R,Spain,Real San Sebastián
+Diego Rico,6400.0,332800.0,28.0,D/WB L,Spain,Real San Sebastián
+Robert Navarro,5700.0,296400.0,19.0,AM RLC,Spain,Real San Sebastián
+Roque Mesa,48000.0,2496000.0,31.0,"DM, M",Spain,Valladolid
+Fabián Orellana,21000.0,1092000.0,34.0,"M, AM",Chile,Valladolid
+Lucas Olaza,18000.0,936000.0,26.0,D/WB,Uruguay,Valladolid
+Nacho,14000.0,728000.0,31.0,D/WB,Spain,Valladolid
+Jaouad El Yamiq,10000.0,520000.0,28.0,D,Morocco,Valladolid
+Jordi Masip,10000.0,520000.0,31.0,GK,Spain,Valladolid
+Rubén Alcaraz,10000.0,520000.0,29.0,"DM, M",Spain,Valladolid
+Bruno,9500.0,494000.0,30.0,D,Spain,Valladolid
+Joaquín,9100.0,473200.0,24.0,"D, DM, M",Spain,Valladolid
+Kenan Kodro,9000.0,468000.0,26.0,"AM, ST",Bosnia & Herzegovina,Valladolid
+Sergi Guardiola,9000.0,468000.0,29.0,"AM, ST",Spain,Valladolid
+Kiko Olivas,8000.0,416000.0,31.0,D,Spain,Valladolid
+Roberto,8000.0,416000.0,34.0,GK,Spain,Valladolid
+Marcos André,7900.0,410800.0,23.0,ST,Brazil,Valladolid
+Pablo Hervías,7800.0,405600.0,27.0,"M, AM",Spain,Valladolid
+Toni Villa,7600.0,395200.0,25.0,"M, AM",Spain,Valladolid
+Fede San Emeterio,7300.0,379600.0,23.0,"DM, M",Spain,Valladolid
+Javi Sánchez,7100.0,369200.0,23.0,D,Spain,Valladolid
+Jota,7100.0,369200.0,21.0,AM,Portugal,Valladolid
+Óscar Plano,7000.0,364000.0,29.0,"AM, ST",Spain,Valladolid
+Raúl García,6700.0,348400.0,31.0,D/WB,Spain,Valladolid
+Luis Pérez,6000.0,312000.0,25.0,D/WB,Spain,Valladolid
+Míchel,5900.0,306800.0,31.0,M/AM,Spain,Valladolid
+Kike,5000.0,260000.0,23.0,M/AM,Spain,Valladolid
+Saidy Janko,3600.0,187200.0,24.0,D/WB,Switzerland,Valladolid
+Shon Weissman,2600.0,135200.0,24.0,"AM, ST",Israel,Valladolid
+Waldo,2400.0,124800.0,24.0,M/AM,Spain,Valladolid
+Anthony Martial,180000.0,9360000.0,25.0,"AM L, ST",France,Sevilla
+Ivan Rakitic,107000.0,5564000.0,33.0,"DM, AM C",Croatia,Sevilla
+Nemanja Gudelj,86000.0,4472000.0,29.0,"D C, DM",Serbia,Sevilla
+Munir,81000.0,4212000.0,25.0,"AM RLC, F C",Morocco,Sevilla
+Jesús Navas,74000.0,3848000.0,35.0,D/WB/AM R,Spain,Sevilla
+Jules Koundé,69000.0,3588000.0,22.0,D C,France,Sevilla
+Alejandro Gómez,64000.0,3328000.0,33.0,"AM LC, F C",Argentina,Sevilla
+Thomas Delaney,63000.0,3276000.0,29.0,DM,Denmark,Sevilla
+Erik Lamela,53000.0,2756000.0,29.0,AM RLC,Argentina,Sevilla
+Diego Carlos,52000.0,2704000.0,28.0,D C,Brazil,Sevilla
+Marcos Acuña,49000.0,2548000.0,29.0,D/WB/AM L,Argentina,Sevilla
+Fernando,47000.0,2444000.0,33.0,DM,Brazil,Sevilla
+Yassine Bounou,46000.0,2392000.0,30.0,GK,Morocco,Sevilla
+Youssef En-Nesyri,45000.0,2340000.0,24.0,"AM L, ST",Morocco,Sevilla
+Joan Jordán,40000.0,2080000.0,27.0,DM,Spain,Sevilla
+Ibrahim Amadou,38000.0,1976000.0,28.0,DM,France,Sevilla
+Óliver,37000.0,1924000.0,26.0,AM LC,Spain,Sevilla
+Suso,35000.0,1820000.0,27.0,AM RC,Spain,Sevilla
+Rafa Mir,33000.0,1716000.0,24.0,ST,Spain,Sevilla
+Jesús Corona,30000.0,1560000.0,28.0,"WB R, AM RL",Mexico,Sevilla
+Lucas Ocampos,26000.0,1352000.0,27.0,AM RL,Argentina,Sevilla
+Óscar,25000.0,1300000.0,23.0,AM LC,Spain,Sevilla
+Gonzalo Montiel,23000.0,1196000.0,24.0,D/WB R,Argentina,Sevilla
+Marko Dmitrović,21000.0,1092000.0,29.0,GK,Serbia,Sevilla
+Karim Rekik,20000.0,1040000.0,26.0,D LC,Holland,Sevilla
+Oussama Idrissi,19000.0,988000.0,25.0,AM RL,Morocco,Sevilla
+Ludwig Augustinsson,17000.0,884000.0,27.0,D/WB L,Sweden,Sevilla
+Gonçalo Guedes,100000.0,5200000.0,24.0,"AM RLC, F C",Portugal,Valencia
+Carlos Soler,82000.0,4264000.0,24.0,"WB R, DM, AM RC",Spain,Valencia
+Gabriel Paulista,78000.0,4056000.0,30.0,D C,Brazil,Valencia
+Jasper Cillessen,77000.0,4004000.0,32.0,GK,Holland,Valencia
+José Gayà,58000.0,3016000.0,26.0,D/WB/AM L,Spain,Valencia
+Maxi Gómez,49000.0,2548000.0,24.0,ST,Uruguay,Valencia
+Hélder Costa,46000.0,2392000.0,27.0,AM RL,Portugal,Valencia
+Daniel Wass,29000.0,1508000.0,32.0,"D/WB R, DM, M RLC",Denmark,Valencia
+Jaume Domènech,25000.0,1300000.0,30.0,GK,Spain,Valencia
+Omar Alderete,24000.0,1248000.0,24.0,D C,Paraguay,Valencia
+Denis Cheryshev,23000.0,1196000.0,30.0,AM L,Russia,Valencia
+Cristiano Piccini,19000.0,988000.0,28.0,D/WB R,Italy,Valencia
+Manu Vallejo,19000.0,988000.0,24.0,"AM RLC, F C",Spain,Valencia
+Jason,15000.0,780000.0,27.0,"WB R, AM RLC",Spain,Valencia
+Mouctar Diakhaby,12000.0,624000.0,24.0,D C,France,Valencia
+Marcos André,12000.0,624000.0,24.0,ST,Brazil,Valencia
+Dimitri Foulquier,8400.0,436800.0,28.0,D/WB RL,France,Valencia
+Yunus Musah,8300.0,431600.0,18.0,AM RC,U.S.A.,Valencia
+Uroš Račić,8000.0,416000.0,23.0,DM,Serbia,Valencia
+Hugo Guillamón,7200.0,374400.0,21.0,"D C, DM",Spain,Valencia
+Hugo Duro,7200.0,374400.0,21.0,AM/F C,Spain,Valencia
+Thierry Rendall Correia,7000.0,364000.0,22.0,D/WB RL,Portugal,Valencia
+Toni Lato,6600.0,343200.0,23.0,D/WB L,Spain,Valencia
+Cristian Rivero,5400.0,280800.0,23.0,GK,Spain,Valencia
+Álex Blanco,5000.0,260000.0,22.0,AM RLC,Spain,Valencia
+Giorgi Mamardashvili,3200.0,166400.0,20.0,GK,Georgia,Valencia
+Koba Lein,3000.0,156000.0,19.0,M C,France,Valencia
+Pau Torres,63000.0,3276000.0,24.0,D C,Spain,Villarreal
+Dani Parejo,63000.0,3276000.0,32.0,"DM, AM C",Spain,Villarreal
+Francis Coquelin,62000.0,3224000.0,30.0,"DM, M RC",France,Villarreal
+Gerard Moreno,60000.0,3120000.0,29.0,"AM R, ST",Spain,Villarreal
+Raúl Albiol,47000.0,2444000.0,35.0,D C,Spain,Villarreal
+Vicente Iborra,44000.0,2288000.0,33.0,DM,Spain,Villarreal
+Gerónimo Rulli,40000.0,2080000.0,29.0,GK,Argentina,Villarreal
+Sergio Asenjo,39000.0,2028000.0,32.0,GK,Spain,Villarreal
+Paco Alcácer,38000.0,1976000.0,27.0,ST,Spain,Villarreal
+Aïssa Mandi,37000.0,1924000.0,29.0,D RLC,Algeria,Villarreal
+Alfonso Pedraza,32000.0,1664000.0,25.0,D/WB/AM L,Spain,Villarreal
+Juan Foyth,27000.0,1404000.0,23.0,"D RC, DM",Argentina,Villarreal
+Manu Trigueros,26000.0,1352000.0,29.0,M C,Spain,Villarreal
+Moi Gómez,26000.0,1352000.0,26.0,AM LC,Spain,Villarreal
+Arnaut Danjuma,25000.0,1300000.0,24.0,AM RL,Holland,Villarreal
+Etienne Capoue,24000.0,1248000.0,33.0,DM,France,Villarreal
+Boulaye Dia,24000.0,1248000.0,24.0,"AM R, ST",Senegal,Villarreal
+Alberto Moreno,23000.0,1196000.0,28.0,D/WB L,Spain,Villarreal
+Serge Aurier,22000.0,1144000.0,28.0,D/WB R,Ivory Coast,Villarreal
+Samuel Chukwueze,22000.0,1144000.0,22.0,AM RL,Nigeria,Villarreal
+Mario Gaspar,21000.0,1092000.0,30.0,D/WB R,Spain,Villarreal
+Pervis Estupiñán,19000.0,988000.0,23.0,D/WB/M L,Ecuador,Villarreal
+Rubén Peña,16000.0,832000.0,29.0,D/WB/AM R,Spain,Villarreal
+Yeremy Pino,14000.0,728000.0,18.0,"AM RLC, F C",Spain,Villarreal
+Dani Raba,7400.0,384800.0,25.0,AM/F C,Spain,Villarreal
+Florin Andone,45000.0,2340000.0,28.0,ST,Romania,Cádiz
+Alfonso Espino,16000.0,832000.0,29.0,D/WB L,Uruguay,Cádiz
+Álvaro Negredo,16000.0,832000.0,35.0,ST,Spain,Cádiz
+Jeremías Ledesma,14000.0,728000.0,28.0,GK,Argentina,Cádiz
+Jens Jønsson,14000.0,728000.0,28.0,"D C, DM",Denmark,Cádiz
+Anthony Lozano,13000.0,676000.0,28.0,ST,Honduras,Cádiz
+Cala,12000.0,624000.0,31.0,D C,Spain,Cádiz
+Álex Fernández,12000.0,624000.0,28.0,AM RLC,Spain,Cádiz
+Tomás Alarcón,10000.0,520000.0,22.0,DM,Chile,Cádiz
+Rubén Sobrino,8700.0,452400.0,29.0,AM/F C,Spain,Cádiz
+José Mari,7100.0,369200.0,33.0,DM,Spain,Cádiz
+Salvi Sánchez,6600.0,343200.0,30.0,AM R,Spain,Cádiz
+Alberto Perea,5500.0,286000.0,30.0,AM LC,Spain,Cádiz
+Fali,5300.0,275600.0,27.0,"D C, DM",Spain,Cádiz
+Iza,5100.0,265200.0,28.0,D/WB/AM R,Spain,Cádiz
+Jon Ander Garrido,5100.0,265200.0,31.0,"D C, DM",Spain,Cádiz
+Iván Alejo,5100.0,265200.0,26.0,AM RL,Spain,Cádiz
+Álvaro Jiménez,5000.0,260000.0,26.0,AM R,Spain,Cádiz
+Marcos Mauro,4900.0,254800.0,30.0,D C,Argentina,Cádiz
+Varazdat Haroyan,4500.0,234000.0,28.0,D C,Armenia,Cádiz
+Carlos Akapo,4400.0,228800.0,28.0,D R,Eq. Guinea,Cádiz
+David Gil,3400.0,176800.0,27.0,GK,Spain,Cádiz
+Martín Calderón,2900.0,150800.0,22.0,DM,Spain,Cádiz
+Milutin Osmajić,2900.0,150800.0,21.0,AM RLC,Montenegro,Cádiz
+Santiago Arzamendia,2600.0,135200.0,23.0,D/WB L,Paraguay,Cádiz
+Víctor Chust,2500.0,130000.0,21.0,D C,Spain,Cádiz
+Darío Benedetto,53000.0,2756000.0,31.0,ST,Argentina,Elche
+Kiko Casilla,40000.0,2080000.0,34.0,GK,Spain,Elche
+Guido Carrillo,31000.0,1612000.0,30.0,ST,Argentina,Elche
+Omar Mascarell,24000.0,1248000.0,28.0,DM,Spain,Elche
+Lucas Pérez,19000.0,988000.0,32.0,"AM RLC, F C",Spain,Elche
+Edgar Badía,17000.0,884000.0,29.0,GK,Spain,Elche
+Fidel Chaves,15000.0,780000.0,31.0,AM LC,Spain,Elche
+Javier Pastore,15000.0,780000.0,32.0,AM LC,Argentina,Elche
+Johan Mojica,14000.0,728000.0,28.0,D/WB/M L,Colombia,Elche
+Gonzalo Verdú,13000.0,676000.0,32.0,"D C, DM",Spain,Elche
+Pedro Bigas,13000.0,676000.0,31.0,"D LC, DM",Spain,Elche
+Josan Ferrández,10000.0,520000.0,31.0,"WB R, AM RL",Spain,Elche
+Iván Marcone,9100.0,473200.0,31.0,DM,Argentina,Elche
+Lucas Boyé,8000.0,416000.0,25.0,"AM RLC, F C",Argentina,Elche
+Pablo Piatti,7800.0,405600.0,32.0,AM RLC,Argentina,Elche
+Antonio Barragán,7500.0,390000.0,34.0,D/WB R,Spain,Elche
+Enzo Roco,7300.0,379600.0,28.0,D C,Chile,Elche
+Gerard Gumbau,7200.0,374400.0,26.0,DM,Spain,Elche
+Pere Milla,6800.0,353600.0,28.0,"AM RLC, F C",Spain,Elche
+Tete Morente,6600.0,343200.0,25.0,AM RL,Spain,Elche
+Helibelton Palacios,6200.0,322400.0,28.0,D/WB R,Colombia,Elche
+Josema Sánchez,6100.0,317200.0,25.0,D LC,Spain,Elche
+Axel Werner,5500.0,286000.0,25.0,GK,Argentina,Elche
+Diego González,4400.0,228800.0,26.0,D C,Spain,Elche
+Raúl Guti,2700.0,140400.0,24.0,"DM, M RC",Spain,Elche
+Jaime Seoane,24000.0,1248000.0,24.0,DM,Spain,Huesca
+Adolfo Gaich,21000.0,1092000.0,22.0,ST,Argentina,Huesca
+Andrés Fernández,14000.0,728000.0,34.0,GK,Spain,Huesca
+Julio Buffarini,10000.0,520000.0,32.0,D/WB/M R,Argentina,Huesca
+Isidro Pitta,9100.0,473200.0,21.0,ST,Paraguay,Huesca
+Marc Mateu,8900.0,462800.0,31.0,"D/WB L, AM LC",Spain,Huesca
+Cristian Salvador,6400.0,332800.0,26.0,DM,Spain,Huesca
+David Ferreiro,6400.0,332800.0,33.0,AM RLC,Spain,Huesca
+Ignasi Miquel,6100.0,317200.0,28.0,D LC,Spain,Huesca
+Mikel Rico,5900.0,306800.0,36.0,"DM, AM C",Spain,Huesca
+Pablo Insua,5800.0,301600.0,27.0,D C,Spain,Huesca
+Dani Escriche,5400.0,280800.0,23.0,AM LC,Spain,Huesca
+Florian Miguel,5300.0,275600.0,24.0,D LC,France,Huesca
+Enzo Lombardo,5300.0,275600.0,24.0,AM RLC,France,Huesca
+Pedro Mosquera,4800.0,249600.0,33.0,DM,Spain,Huesca
+Andrei Raţiu,4500.0,234000.0,23.0,D/WB/AM R,Romania,Huesca
+Jorge Pulido,4100.0,213200.0,30.0,D C,Spain,Huesca
+Juan Carlos,4100.0,213200.0,30.0,AM RC,Spain,Huesca
+Joaquín,3100.0,161200.0,22.0,AM RL,Spain,Huesca
+Kelechi Nwakali,3000.0,156000.0,23.0,AM C,Nigeria,Huesca
+Miguel San Román,2900.0,150800.0,23.0,GK,Spain,Huesca

@@ -1,0 +1,661 @@
+﻿Player Name,Weekly Wage,Yearly Salary,Age,Position,Nationality,Team
+Moussa Konaté,20000.0,1040000.0,26.0,"AM R, ST",Senegal,Amiens
+Serhou Guirassy,20000.0,1040000.0,23.0,"AM L, ST",France,Amiens
+Chadrac Akolo,17000.0,884000.0,24.0,AM RL,DR Congo,Amiens
+Fousséni Diabaté,15000.0,780000.0,23.0,"AM RL, ST",Mali,Amiens
+Isaac Mbenza,15000.0,780000.0,23.0,"AM L, ST",Belgium,Amiens
+Saman Ghoddos,15000.0,780000.0,25.0,"AM RLC, F C",Iran,Amiens
+Bongani Zungu,12000.0,624000.0,26.0,DM,South Africa,Amiens
+Gaël Kakuta,12000.0,624000.0,28.0,AM RLC,DR Congo,Amiens
+Aurélien Chedjou,11000.0,572000.0,34.0,"D C, DM",Cameroon,Amiens
+Bakaye Dibassy,10000.0,520000.0,29.0,D LC,Mali,Amiens
+Prince-Désir Gouano,10000.0,520000.0,25.0,D C,France,Amiens
+Thomas Monconduit,10000.0,520000.0,28.0,DM,France,Amiens
+Alexis Blin,8000.0,416000.0,22.0,DM,France,Amiens
+Christophe Jallet,8000.0,416000.0,35.0,D/WB RL,France,Amiens
+Arturo Calabresi,6000.0,312000.0,23.0,D RC,Italy,Amiens
+Haitam Aleesami,6000.0,312000.0,27.0,D/WB/M L,Norway,Amiens
+Nicholas Opoku,6000.0,312000.0,21.0,D C,Ghana,Amiens
+Stiven Mendoza,6000.0,312000.0,27.0,"AM RL, ST",Colombia,Amiens
+Juan Otero,5000.0,260000.0,24.0,"AM R, ST",Colombia,Amiens
+Régis Gurtner,5000.0,260000.0,32.0,GK,France,Amiens
+Loïc Badiashile,4000.0,208000.0,21.0,GK,France,Amiens
+Mathieu Bodmer,4000.0,208000.0,36.0,"DM, AM C",France,Amiens
+Matthieu Dreyer,3000.0,156000.0,30.0,GK,France,Amiens
+Jonathan Bumbu,2000.0,104000.0,20.0,"D R, M C",France,Amiens
+Ulrick Enémé Ella,2000.0,104000.0,18.0,AM/F C,France,Amiens
+Quentin Cornette,1000.0,52000.0,25.0,AM RLC,France,Amiens
+Ayoub Sefraoui,800.0,41600.0,19.0,AM L,France,Amiens
+Paul Joly,790.0,41080.0,19.0,"D C, DM",France,Amiens
+Darell Tokpa,660.0,34320.0,18.0,ST,France,Amiens
+Driss Khalid,660.0,34320.0,20.0,AM LC,Morocco,Amiens
+Max Gradel,38000.0,1976000.0,31.0,AM RLC,Ivory Coast,Toulouse
+Lovre Kalinic,36000.0,1872000.0,29.0,GK,Croatia,Toulouse
+William Vainqueur,29000.0,1508000.0,30.0,DM,France,Toulouse
+Matthieu Dossevi,24000.0,1248000.0,30.0,AM R,Togo,Toulouse
+Wesley Saïd,24000.0,1248000.0,24.0,"AM L, ST",France,Toulouse
+Nicolas Isimat-Mirin,21000.0,1092000.0,27.0,D C,France,Toulouse
+Ibrahim Sangaré,20000.0,1040000.0,21.0,DM,Ivory Coast,Toulouse
+Baptiste Reynet,17000.0,884000.0,28.0,GK,France,Toulouse
+Yaya Sanogo,17000.0,884000.0,26.0,ST,France,Toulouse
+Efthymis Koulouris,15000.0,780000.0,23.0,ST,Greece,Toulouse
+Jean-Victor Makengo,14000.0,728000.0,21.0,DM,France,Toulouse
+Agustín Rogel,12000.0,624000.0,21.0,D C,Uruguay,Toulouse
+Ruben Gabrielsen,12000.0,624000.0,27.0,D RC,Norway,Toulouse
+Aaron Leya Iseka,10000.0,520000.0,22.0,ST,Belgium,Toulouse
+Issiaga Sylla,9000.0,468000.0,25.0,D/WB L,Guinea,Toulouse
+Kelvin Amian,9000.0,468000.0,21.0,D RC,France,Toulouse
+Quentin Boisgard,5000.0,260000.0,22.0,AM RLC,France,Toulouse
+Steven Moreira,5000.0,260000.0,24.0,D/WB R,France,Toulouse
+Firmin Mubele,4000.0,208000.0,25.0,"AM RL, ST",DR Congo,Toulouse
+Kalidou Sidibé,3000.0,156000.0,20.0,DM,Mali,Toulouse
+Mauro Goicoechea,3000.0,156000.0,31.0,GK,Uruguay,Toulouse
+Bafodé Diakité,2000.0,104000.0,18.0,D RC,France,Toulouse
+Anthony Rouault,990.0,51480.0,18.0,D C,France,Toulouse
+Iliès Soudani,820.0,42640.0,19.0,AM/F C,France,Toulouse
+Dylan Cardoso,800.0,41600.0,19.0,AM/F C,France,Toulouse
+Jean-Jacques Woto,790.0,41080.0,19.0,GK,France,Toulouse
+Manu Koné,670.0,34840.0,18.0,AM LC,France,Toulouse
+Adil Taoui,560.0,29120.0,17.0,"AM L, ST",France,Toulouse
+Amine Adli,560.0,29120.0,19.0,AM LC,France,Toulouse
+Fares Chaïbi,560.0,29120.0,16.0,M C,France,Toulouse
+Sofiane Boufal,24000.0,1248000.0,27.0,"AM RLC, F C",Morocco,Angers SCO
+Paul Bernardoni,19000.0,988000.0,24.0,GK,France,Angers SCO
+Casimir Ninga,14000.0,728000.0,28.0,"AM L, ST",Chad,Angers SCO
+Ismaël Traoré,14000.0,728000.0,34.0,D C,Ivory Coast,Angers SCO
+Angelo Fulgini,13000.0,676000.0,24.0,"DM, AM C",France,Angers SCO
+Stéphane Bahoken,12000.0,624000.0,29.0,ST,Cameroon,Angers SCO
+Thomas Mangani,10000.0,520000.0,34.0,DM,France,Angers SCO
+Souleyman Doumbia,10000.0,520000.0,24.0,D/WB L,Ivory Coast,Angers SCO
+Jimmy Cabot,9100.0,473200.0,27.0,"WB R, AM RL",France,Angers SCO
+Pierrick Capelle,8800.0,457600.0,34.0,AM LC,France,Angers SCO
+Romain Thomas,8000.0,416000.0,33.0,D C,France,Angers SCO
+Vincent Manceau,7500.0,390000.0,31.0,"D RC, DM",France,Angers SCO
+Farid El Melali,6300.0,327600.0,24.0,AM R,Algeria,Angers SCO
+Sada Thioub,5600.0,291200.0,26.0,"AM RL, ST",Senegal,Angers SCO
+Mathias Pereira Lage,4900.0,254800.0,24.0,AM LC,Portugal,Angers SCO
+Batista Mendy,4500.0,234000.0,21.0,DM,France,Angers SCO
+Antonin Bobichon,4500.0,234000.0,25.0,AM RLC,France,Angers SCO
+Abdoulaye Bamba,3500.0,182000.0,31.0,D/WB R,Ivory Coast,Angers SCO
+Danijel Petković,3400.0,176800.0,28.0,GK,Montenegro,Angers SCO
+Enzo Ebosse,2300.0,119600.0,22.0,D LC,France,Angers SCO
+Billal Brahimi,1500.0,78000.0,21.0,AM RL,France,Angers SCO
+Mohamed-Ali Cho,900.0,46800.0,17.0,"AM RL, ST",France,Angers SCO
+Azzedine Ounahi,770.0,40040.0,21.0,AM LC,Morocco,Angers SCO
+Zinédine Ould Khaled,720.0,37440.0,21.0,DM,France,Angers SCO
+Blondon Meyapya,710.0,36920.0,20.0,D C,Cameroon,Angers SCO
+Anthony Mandréa,670.0,34840.0,24.0,GK,France,Angers SCO
+Ali Kalla,650.0,33800.0,23.0,D/M R,France,Angers SCO
+Abdoulaye Samassa,650.0,33800.0,22.0,D C,France,Angers SCO
+Ayoub Yousfi,650.0,33800.0,18.0,AM LC,Spain,Angers SCO
+Ayoub Jabbari,650.0,33800.0,21.0,ST,Morocco,Angers SCO
+Wissam Ben Yedder,128000.0,6656000.0,30.0,ST,France,AS Monaco
+Cesc Fàbregas,118000.0,6136000.0,34.0,AM C,Spain,AS Monaco
+Alexander Nübel,93000.0,4836000.0,24.0,GK,Germany,AS Monaco
+Kevin Volland,79000.0,4108000.0,28.0,"AM RC, F C",Germany,AS Monaco
+Alexandr Golovin,78000.0,4056000.0,25.0,AM LC,Russia,AS Monaco
+Gelson Martins,60000.0,3120000.0,26.0,AM RL,Portugal,AS Monaco
+Djibril Sidibé,49000.0,2548000.0,28.0,D RL,France,AS Monaco
+Krépin Diatta,35000.0,1820000.0,22.0,"WB R, AM RLC",Senegal,AS Monaco
+Pelé,30000.0,1560000.0,29.0,DM,Guinea-Bissau,AS Monaco
+Caio Henrique,27000.0,1404000.0,23.0,D/WB/M L,Brazil,AS Monaco
+Aurélien Tchouameni,19000.0,988000.0,21.0,M C,France,AS Monaco
+Myron Boadu,19000.0,988000.0,20.0,"AM RL, ST",Holland,AS Monaco
+Axel Disasi,18000.0,936000.0,23.0,D C,France,AS Monaco
+Ruben Aguilar,18000.0,936000.0,28.0,D/WB R,France,AS Monaco
+Jean Lucas,16000.0,832000.0,23.0,DM,Brazil,AS Monaco
+Benoît Badiashile,14000.0,728000.0,20.0,D C,France,AS Monaco
+Ismail Jakobs,14000.0,728000.0,21.0,WB/AM L,Germany,AS Monaco
+Sofiane Diop,11000.0,572000.0,21.0,AM RLC,France,AS Monaco
+Radosław Majecki,8000.0,416000.0,21.0,GK,Poland,AS Monaco
+Strahinja Pavlović,8000.0,416000.0,20.0,D C,Serbia,AS Monaco
+Youssouf Fofana,7300.0,379600.0,22.0,DM,France,AS Monaco
+Guillermo Maripán,7200.0,374400.0,27.0,D C,Chile,AS Monaco
+Vito Mannone,4500.0,234000.0,33.0,GK,Italy,AS Monaco
+Harisson Marcelin,4200.0,218400.0,21.0,D C,France,AS Monaco
+Eliot Matazo,3300.0,171600.0,19.0,"DM, M RC",Belgium,AS Monaco
+Chrislain Matsima,1060.0,55120.0,19.0,"D C, DM",France,AS Monaco
+Amílcar Silva,910.0,47320.0,21.0,D/WB L,Portugal,AS Monaco
+Adrien Bongiovanni,860.0,44720.0,21.0,AM RLC,Belgium,AS Monaco
+Valentin Decarpentrie,700.0,36400.0,19.0,AM RLC,France,AS Monaco
+Anthony Ranieri,650.0,33800.0,24.0,ST,France,AS Monaco
+Wahbi Khazri,53000.0,2756000.0,30.0,"AM LC, F C",Tunisia,AS Saint-Etienne
+Ryad Boudebouz,37000.0,1924000.0,31.0,AM RLC,Algeria,AS Saint-Etienne
+Harold Moukoudi,25000.0,1300000.0,24.0,"D C, DM",Cameroon,AS Saint-Etienne
+Timothée Kolodziejczak,21000.0,1092000.0,29.0,D LC,France,AS Saint-Etienne
+Denis Bouanga,20000.0,1040000.0,26.0,AM RL,Gabon,AS Saint-Etienne
+Gabriel Silva,19000.0,988000.0,30.0,D/WB L,Brazil,AS Saint-Etienne
+Adil Aouchiche,19000.0,988000.0,18.0,AM C,France,AS Saint-Etienne
+Romain Hamouma,15000.0,780000.0,34.0,AM R,France,AS Saint-Etienne
+Miguel Trauco,13000.0,676000.0,28.0,D/WB L,Peru,AS Saint-Etienne
+Etienne Green,12000.0,624000.0,20.0,GK,England,AS Saint-Etienne
+Assane Dioussé,9500.0,494000.0,23.0,DM,Senegal,AS Saint-Etienne
+Zaydou Youssouf,5000.0,260000.0,22.0,AM C,France,AS Saint-Etienne
+Arnaud Nordin,4500.0,234000.0,23.0,AM L,France,AS Saint-Etienne
+Saidou Sow,3600.0,187200.0,19.0,D C,Guinea,AS Saint-Etienne
+Alpha Sissoko,2500.0,130000.0,24.0,D/WB RL,France,AS Saint-Etienne
+Lucas Gourna Douath,2000.0,104000.0,17.0,DM,France,AS Saint-Etienne
+Mahdi Camara,1900.0,98800.0,23.0,DM,France,AS Saint-Etienne
+Bilal Benkhedim,1500.0,78000.0,20.0,AM C,France,AS Saint-Etienne
+Yvan Neyou,1300.0,67600.0,24.0,AM RC,Cameroon,AS Saint-Etienne
+Aïmen Moueffek,980.0,50960.0,20.0,DM,France,AS Saint-Etienne
+Mickaël Nadé,900.0,46800.0,22.0,D C,France,AS Saint-Etienne
+Stefan Bajić,890.0,46280.0,19.0,GK,France,AS Saint-Etienne
+Lucas Calodat,770.0,40040.0,19.0,D L,France,AS Saint-Etienne
+Edmilson Correia,760.0,39520.0,21.0,ST,Guinea-Bissau,AS Saint-Etienne
+Ignacio Ramírez,760.0,39520.0,24.0,ST,Uruguay,AS Saint-Etienne
+Louis Mouton,760.0,39520.0,19.0,M C,France,AS Saint-Etienne
+Yvann Maçon,680.0,35360.0,22.0,"D/WB RL, M R",France,AS Saint-Etienne
+Jean-Philippe Krasso,660.0,34320.0,23.0,ST,Ivory Coast,AS Saint-Etienne
+Koimizo,650.0,33800.0,20.0,M C,Ivory Coast,AS Saint-Etienne
+Abdoulaye Bakayoko,650.0,33800.0,18.0,D C,Ivory Coast,AS Saint-Etienne
+Bruno Ecuélé Manga,22000.0,1144000.0,32.0,D RC,Gabon,Dijon FCO
+Yassine Benzia,15000.0,780000.0,26.0,AM C,Algeria,Dijon FCO
+Baptiste Reynet,15000.0,780000.0,30.0,GK,France,Dijon FCO
+Daniel Congré,14000.0,728000.0,36.0,D C,France,Dijon FCO
+Mickaël Le Bihan,11000.0,572000.0,31.0,ST,France,Dijon FCO
+Lucas Deaux,10000.0,520000.0,32.0,DM,France,Dijon FCO
+Jessy Pi,9100.0,473200.0,27.0,DM,France,Dijon FCO
+Romain Philippoteaux,8700.0,452400.0,33.0,AM RL,France,Dijon FCO
+Jordan Marié,6100.0,317200.0,29.0,DM,France,Dijon FCO
+Anthony Racioppi,5500.0,286000.0,22.0,GK,Switzerland,Dijon FCO
+Frédéric Sammaritano,5300.0,275600.0,35.0,AM RLC,France,Dijon FCO
+Senou Coulibaly,4600.0,239200.0,23.0,D C,France,Dijon FCO
+Adama Fofana,4500.0,234000.0,21.0,D/WB/M L,Ivory Coast,Dijon FCO
+Alex Dobre,3500.0,182000.0,22.0,AM RL,Romania,Dijon FCO
+Cheick Traoré,3400.0,176800.0,26.0,D/WB R,Mali,Dijon FCO
+Zargo Touré,3000.0,156000.0,31.0,D C,Senegal,Dijon FCO
+Valentin Jacob,2500.0,130000.0,27.0,AM LC,France,Dijon FCO
+Bryan Soumaré,2500.0,130000.0,22.0,AM RC,France,Dijon FCO
+Aurélien Scheidler,2500.0,130000.0,23.0,ST,France,Dijon FCO
+Christopher Rocchia,2400.0,124800.0,23.0,D/WB L,France,Dijon FCO
+Jonathan Panzo,2100.0,109200.0,20.0,D LC,England,Dijon FCO
+Mattéo Ahlinvi,1900.0,98800.0,22.0,DM,Benin,Dijon FCO
+Yaya Soumaré,1300.0,67600.0,21.0,AM RL,France,Dijon FCO
+Axel Mary,510.0,26520.0,19.0,D C,France,Dijon FCO
+Amir Arli,510.0,26520.0,18.0,AM C,France,Dijon FCO
+Adrien Moncet,510.0,26520.0,17.0,GK,France,Dijon FCO
+Ahmad Ngouyamsa,510.0,26520.0,20.0,D R,Cameroon,Dijon FCO
+Emmanuel Valey,470.0,24440.0,17.0,ST,France,Dijon FCO
+Erwan Belhadji,470.0,24440.0,20.0,"DM, AM LC",France,Dijon FCO
+Zoran Moco,410.0,21320.0,18.0,ST,France,Dijon FCO
+Laurent Koscielny,47000.0,2444000.0,35.0,D C,France,FC Girondins de Bordeaux
+Benoît Costil,38000.0,1976000.0,34.0,GK,France,FC Girondins de Bordeaux
+Otávio,29000.0,1508000.0,27.0,DM,Brazil,FC Girondins de Bordeaux
+Edson Mexer,26000.0,1352000.0,32.0,D C,Mozambique,FC Girondins de Bordeaux
+Hwang Ui-Jo,25000.0,1300000.0,28.0,"AM RL, ST",South Korea,FC Girondins de Bordeaux
+Fransérgio,25000.0,1300000.0,30.0,"DM, AM C",Brazil,FC Girondins de Bordeaux
+M’Baye Niang,23000.0,1196000.0,26.0,"AM RL, ST",Senegal,FC Girondins de Bordeaux
+Rémi Oudin,20000.0,1040000.0,24.0,AM RLC,France,FC Girondins de Bordeaux
+Jimmy Briand,19000.0,988000.0,35.0,"AM R, ST",France,FC Girondins de Bordeaux
+Paul Baysse,17000.0,884000.0,33.0,D RC,France,FC Girondins de Bordeaux
+Javairo Dilrosun,16000.0,832000.0,23.0,AM RL,Holland,FC Girondins de Bordeaux
+Yacine Adli,15000.0,780000.0,20.0,AM RC,France,FC Girondins de Bordeaux
+Samuel Kalu,15000.0,780000.0,23.0,"AM RL, ST",Nigeria,FC Girondins de Bordeaux
+Josh Maja,14000.0,728000.0,22.0,ST,Nigeria,FC Girondins de Bordeaux
+Stian Rode Gregersen,11000.0,572000.0,26.0,"D RC, DM",Norway,FC Girondins de Bordeaux
+Enock Kwateng,8300.0,431600.0,24.0,D/WB R,France,FC Girondins de Bordeaux
+Alberth Elis,7500.0,390000.0,25.0,"AM RL, ST",Honduras,FC Girondins de Bordeaux
+Gideon Mensah,6200.0,322400.0,22.0,D/WB L,Ghana,FC Girondins de Bordeaux
+Timothée Pembélé,4600.0,239200.0,18.0,D RC,France,FC Girondins de Bordeaux
+Mehdi Zerkane,3900.0,202800.0,21.0,AM RC,Algeria,FC Girondins de Bordeaux
+Amadou Traoré,3500.0,182000.0,19.0,AM R,France,FC Girondins de Bordeaux
+Gaëtan Poussin,3200.0,166400.0,22.0,GK,France,FC Girondins de Bordeaux
+Junior Onana,3100.0,161200.0,21.0,DM,Cameroon,FC Girondins de Bordeaux
+Ricardo Mangas,2700.0,140400.0,23.0,D/WB/M L,Portugal,FC Girondins de Bordeaux
+Sékou Mara,2600.0,135200.0,18.0,ST,France,FC Girondins de Bordeaux
+Abdel Medioub,2500.0,130000.0,23.0,D C,Algeria,FC Girondins de Bordeaux
+Issouf Sissokho,980.0,50960.0,19.0,M C,Mali,FC Girondins de Bordeaux
+Dilane Bakwa,930.0,48360.0,18.0,AM RL,France,FC Girondins de Bordeaux
+Tom Lacoux,870.0,45240.0,19.0,DM,France,FC Girondins de Bordeaux
+Davy Rouyard,820.0,42640.0,21.0,GK,Guadeloupe,FC Girondins de Bordeaux
+Fabien Lemoine,16000.0,832000.0,34.0,DM,France,FC Lorient
+Igor Silva,15000.0,780000.0,24.0,D/WB/M R,Brazil,FC Lorient
+Laurent Abergel,11000.0,572000.0,28.0,DM,France,FC Lorient
+Terem Moffi,9000.0,468000.0,22.0,ST,Nigeria,FC Lorient
+Paul Nardi,7800.0,405600.0,27.0,GK,France,FC Lorient
+Julien Laporte,7100.0,369200.0,27.0,D C,France,FC Lorient
+Jérémy Morel,7100.0,369200.0,37.0,D LC,Madagascar,FC Lorient
+Thomas Monconduit,7000.0,364000.0,30.0,DM,France,FC Lorient
+Vincent Le Goff,6500.0,338000.0,31.0,D/WB/M L,France,FC Lorient
+Enzo Le Fée,6300.0,327600.0,21.0,AM C,France,FC Lorient
+Quentin Boisgard,5700.0,296400.0,24.0,AM RLC,France,FC Lorient
+Adrian Grbic,5500.0,286000.0,24.0,"AM RL, ST",Austria,FC Lorient
+Houboulang Mendes,5200.0,270400.0,23.0,D RC,France,FC Lorient
+Moritz Jenz,4900.0,254800.0,22.0,D C,Germany,FC Lorient
+Armand Laurienté,4500.0,234000.0,22.0,"AM RL, ST",France,FC Lorient
+Stéphane Diarra,3600.0,187200.0,22.0,AM RL,Ivory Coast,FC Lorient
+Jérôme Hergault,3100.0,161200.0,35.0,D/WB RL,France,FC Lorient
+Matthieu Dreyer,2900.0,150800.0,32.0,GK,France,FC Lorient
+Thomas Fontaine,2600.0,135200.0,30.0,D LC,Madagascar,FC Lorient
+Aurélien Pelon,650.0,33800.0,17.0,D C,France,FC Lorient
+Alexandre Leroyer,650.0,33800.0,25.0,D/WB/AM R,France,FC Lorient
+Bamo Meïté,640.0,33280.0,19.0,"D C, DM",Ivory Coast,FC Lorient
+Brendan Lebas,640.0,33280.0,20.0,DM,France,FC Lorient
+Baptiste Mouazan,640.0,33280.0,19.0,"DM, AM C",France,FC Lorient
+Cheick Doumbia,630.0,32760.0,16.0,D/WB L,France,FC Lorient
+Dialla Danfakha,620.0,32240.0,16.0,ST,France,FC Lorient
+Dango Ouattara,620.0,32240.0,19.0,AM R,Burkina Faso,FC Lorient
+Eren Karaagac,610.0,31720.0,17.0,D LC,France,FC Lorient
+Eddy Ehlinger,610.0,31720.0,19.0,GK,France,FC Lorient
+Ewen Guillermo,610.0,31720.0,17.0,M C,France,FC Lorient
+Nicolas De Préville,22000.0,1144000.0,30.0,"AM RL, ST",France,FC Metz
+Dylan Bronn,16000.0,832000.0,26.0,D RC,Tunisia,FC Metz
+Alexandre Oukidja,13000.0,676000.0,32.0,GK,Algeria,FC Metz
+Opa Nguette,13000.0,676000.0,27.0,AM RL,Senegal,FC Metz
+Fabien Centonze,12000.0,624000.0,25.0,D/WB/M R,France,FC Metz
+Pape Matar Sarr,11000.0,572000.0,18.0,M C,Senegal,FC Metz
+Vincent Pajot,11000.0,572000.0,30.0,DM,France,FC Metz
+Jemerson,11000.0,572000.0,28.0,D C,Brazil,FC Metz
+Farid Boulaya,9300.0,483600.0,28.0,AM RLC,Algeria,FC Metz
+Kiki Kouyaté,8000.0,416000.0,24.0,D RC,Mali,FC Metz
+Thomas Delaine,7600.0,395200.0,29.0,D/WB RL,France,FC Metz
+Habib Maïga,7200.0,374400.0,25.0,DM,Ivory Coast,FC Metz
+Kévin N'Doram,7000.0,364000.0,25.0,"D C, DM",France,FC Metz
+Matthieu Udol,5900.0,306800.0,25.0,D L,France,FC Metz
+Amine Bassi,5500.0,286000.0,23.0,AM RC,Morocco,FC Metz
+Ibrahima Niane,5100.0,265200.0,22.0,ST,Senegal,FC Metz
+Sofiane Alakouch,4600.0,239200.0,22.0,D/WB RL,Morocco,FC Metz
+Marc-Aurèle Caillard,3900.0,202800.0,27.0,GK,France,FC Metz
+Manuel Cabit,3900.0,202800.0,28.0,D/WB L,France,FC Metz
+Sikou Niakaté,3600.0,187200.0,22.0,D C,France,FC Metz
+Lamine Guèye,3000.0,156000.0,23.0,"AM R, ST",Senegal,FC Metz
+Papa Ndiaga Yade,2800.0,145600.0,21.0,"AM RL, ST",Senegal,FC Metz
+Warren Tchimbembé,2400.0,124800.0,23.0,AM RC,Congo,FC Metz
+Cheikh Sabaly,2400.0,124800.0,22.0,AM RL,Senegal,FC Metz
+Jérémie Gnali,800.0,41600.0,19.0,D L,France,FC Metz
+Boubacar Traoré,790.0,41080.0,19.0,DM,Mali,FC Metz
+David Oberhauser,720.0,37440.0,30.0,GK,France,FC Metz
+Amadou Mbengue,650.0,33800.0,19.0,"D C, DM",France,FC Metz
+Alessio Ubaldini,650.0,33800.0,17.0,"D LC, DM",France,FC Metz
+Arthur Heinemann,650.0,33800.0,19.0,GK,France,FC Metz
+Moses Simon,29000.0,1508000.0,26.0,AM RL,Nigeria,FC Nantes
+Kalifa Coulibaly,25000.0,1300000.0,29.0,ST,Mali,FC Nantes
+Andrei Girotto,21000.0,1092000.0,29.0,"D C, DM",Brazil,FC Nantes
+Nicolas Pallois,21000.0,1092000.0,33.0,D C,France,FC Nantes
+Alban Lafont,20000.0,1040000.0,22.0,GK,France,FC Nantes
+Jean-Kévin Augustin,20000.0,1040000.0,24.0,ST,France,FC Nantes
+Dennis Appiah,18000.0,936000.0,29.0,D/WB R,France,FC Nantes
+Willem Geubbels,18000.0,936000.0,19.0,"AM L, ST",France,FC Nantes
+Anthony Limbombe,18000.0,936000.0,27.0,AM RL,Belgium,FC Nantes
+Ludovic Blas,16000.0,832000.0,23.0,AM RC,France,FC Nantes
+Fábio,15000.0,780000.0,31.0,D/WB RL,Brazil,FC Nantes
+Wylan Cyprien,14000.0,728000.0,26.0,"DM, AM C",France,FC Nantes
+Renaud Emond,13000.0,676000.0,29.0,AM/F C,Belgium,FC Nantes
+Jean-Charles Castelletto,11000.0,572000.0,26.0,D RC,Cameroon,FC Nantes
+Sébastien Corchia,9000.0,468000.0,30.0,D/WB/M R,France,FC Nantes
+Charles Traoré,8400.0,436800.0,29.0,D L,Mali,FC Nantes
+Molla Wagué,5900.0,306800.0,30.0,D RC,Mali,FC Nantes
+Pedro Chirivella,5800.0,301600.0,24.0,DM,Spain,FC Nantes
+Marcus Coco,4900.0,254800.0,25.0,AM RL,France,FC Nantes
+Osman Bukari,4800.0,249600.0,22.0,AM RC,Ghana,FC Nantes
+Samuel Moutoussamy,4600.0,239200.0,24.0,DM,DR Congo,FC Nantes
+Denis Petrić,3400.0,176800.0,33.0,GK,Slovenia,FC Nantes
+Rémy Descamps,2700.0,140400.0,25.0,GK,France,FC Nantes
+Randal Kolo Muani,2700.0,140400.0,22.0,"AM R, ST",France,FC Nantes
+Roli Pereira de Sa,1700.0,88400.0,24.0,AM LC,France,FC Nantes
+Abdoulaye Dabo,920.0,47840.0,20.0,M RC,France,FC Nantes
+Gor Manvelyan,760.0,39520.0,19.0,AM C,Armenia,FC Nantes
+Quentin Merlin,700.0,36400.0,19.0,"AM LC, F C",France,FC Nantes
+Amine Saïd,650.0,33800.0,18.0,"AM L, ST",Algeria,FC Nantes
+Abdoulaye Sylla,650.0,33800.0,21.0,D RC,Guinea,FC Nantes
+Renato Sanches,47000.0,2444000.0,23.0,"DM, AM RC",Portugal,LOSC Lille
+Burak Yılmaz,46000.0,2392000.0,35.0,ST,Turkey,LOSC Lille
+Jonathan David,35000.0,1820000.0,21.0,"AM RLC, F C",Canada,LOSC Lille
+Benjamin André,29000.0,1508000.0,30.0,DM,France,LOSC Lille
+José Fonte,28000.0,1456000.0,37.0,D C,Portugal,LOSC Lille
+Jonathan Bamba,24000.0,1248000.0,25.0,"AM RL, ST",France,LOSC Lille
+Jonathan Ikoné,24000.0,1248000.0,23.0,"AM RLC, F C",France,LOSC Lille
+Angel Gomes,23000.0,1196000.0,20.0,AM RLC,England,LOSC Lille
+Ivo Grbić,21000.0,1092000.0,25.0,GK,Croatia,LOSC Lille
+Xeka,20000.0,1040000.0,26.0,DM,Portugal,LOSC Lille
+Sven Botman,18000.0,936000.0,21.0,D LC,Holland,LOSC Lille
+Léo Jardim,16000.0,832000.0,26.0,GK,Brazil,LOSC Lille
+Yusuf Yazıcı,16000.0,832000.0,24.0,AM RC,Turkey,LOSC Lille
+Jérémy Pied,14000.0,728000.0,32.0,D/WB/M R,France,LOSC Lille
+Isaac Lihadji,13000.0,676000.0,19.0,AM RC,France,LOSC Lille
+Cheikh Niasse,12000.0,624000.0,21.0,"D C, DM",Senegal,LOSC Lille
+Orestis Karnezis,10000.0,520000.0,36.0,GK,Greece,LOSC Lille
+Timothy Weah,9000.0,468000.0,21.0,"AM RLC, F C",U.S.A.,LOSC Lille
+Domagoj Bradarić,8400.0,436800.0,21.0,D/WB L,Croatia,LOSC Lille
+Zeki Çelik,8000.0,416000.0,24.0,D/WB RL,Turkey,LOSC Lille
+Tiago Djaló,7600.0,395200.0,21.0,D C,Portugal,LOSC Lille
+Gabriel Gudmundsson,6200.0,322400.0,22.0,D/WB/AM L,Sweden,LOSC Lille
+Adam Jakubech,5500.0,286000.0,24.0,GK,Slovakia,LOSC Lille
+Amadou Onana,5500.0,286000.0,19.0,"D C, DM",Belgium,LOSC Lille
+Reinildo,4700.0,244400.0,27.0,D/WB/AM L,Mozambique,LOSC Lille
+Yves Dabila,3300.0,171600.0,24.0,"D C, DM",Ivory Coast,LOSC Lille
+Saad Agouzoul,2600.0,135200.0,23.0,D C,Morocco,LOSC Lille
+Eddy Ouattara,2300.0,119600.0,19.0,"AM L, ST",France,LOSC Lille
+Eugenio Pizzuto,930.0,48360.0,19.0,DM,Mexico,LOSC Lille
+Noah Saviolo,830.0,43160.0,17.0,ST,Belgium,LOSC Lille
+Jordan Ferri,26000.0,1352000.0,29.0,DM,France,Montpellier Hérault SC
+Mamadou Sakho,21000.0,1092000.0,31.0,D C,France,Montpellier Hérault SC
+Valère Germain,20000.0,1040000.0,31.0,AM/F C,France,Montpellier Hérault SC
+Jonas Omlin,19000.0,988000.0,27.0,GK,Switzerland,Montpellier Hérault SC
+Téji Savanier,19000.0,988000.0,29.0,AM C,France,Montpellier Hérault SC
+Florent Mollet,18000.0,936000.0,29.0,AM C,France,Montpellier Hérault SC
+Arnaud Souquet,14000.0,728000.0,29.0,D/WB R,France,Montpellier Hérault SC
+Ambroise Oyongo,13000.0,676000.0,30.0,D/WB/M L,Cameroon,Montpellier Hérault SC
+Pedro Mendes,12000.0,624000.0,30.0,D C,Portugal,Montpellier Hérault SC
+Joris Chotard,9100.0,473200.0,19.0,DM,France,Montpellier Hérault SC
+Mathías Suárez,8900.0,462800.0,25.0,D/WB R,Uruguay,Montpellier Hérault SC
+Junior Sambia,8100.0,421200.0,24.0,"D/WB R, M C",France,Montpellier Hérault SC
+Nicolas Cozza,7900.0,410800.0,22.0,D LC,France,Montpellier Hérault SC
+Mihailo Ristić,5900.0,306800.0,25.0,"D/WB L, M LC",Serbia,Montpellier Hérault SC
+Stephy Mavididi,5600.0,291200.0,23.0,"AM L, ST",England,Montpellier Hérault SC
+Nicholas Gioacchini,4900.0,254800.0,20.0,ST,U.S.A.,Montpellier Hérault SC
+Dimitry Bertaud,4400.0,228800.0,23.0,GK,France,Montpellier Hérault SC
+Elye Wahi,4300.0,223600.0,18.0,"AM L, ST",France,Montpellier Hérault SC
+Léo Leroy,2000.0,104000.0,21.0,AM C,France,Montpellier Hérault SC
+Thuler,1600.0,83200.0,22.0,D C,Brazil,Montpellier Hérault SC
+Adil Ben Achour,900.0,46800.0,19.0,ST,France,Montpellier Hérault SC
+Axel Réveille,870.0,45240.0,19.0,GK,France,Montpellier Hérault SC
+Beni Makouana,870.0,45240.0,18.0,"AM RL, ST",Congo,Montpellier Hérault SC
+Matis Carvalho,810.0,42120.0,22.0,GK,Portugal,Montpellier Hérault SC
+Ryan Bakayoko,750.0,39000.0,19.0,ST,France,Montpellier Hérault SC
+Maxime Estève,710.0,36920.0,19.0,D C,France,Montpellier Hérault SC
+Enzo Tchato,610.0,31720.0,18.0,D LC,France,Montpellier Hérault SC
+Marius Ros,530.0,27560.0,19.0,AM C,France,Montpellier Hérault SC
+Noah Cornelie,520.0,27040.0,18.0,DM,France,Montpellier Hérault SC
+Oucasse Mendy,510.0,26520.0,20.0,AM R,France,Montpellier Hérault SC
+Anthony Briançon,19000.0,988000.0,26.0,"D C, DM",France,Nîmes Olympique
+Zinedine Ferhat,9000.0,468000.0,28.0,AM RL,Algeria,Nîmes Olympique
+Pablo Martinez,8800.0,457600.0,32.0,D LC,France,Nîmes Olympique
+Andrés Cubas,8500.0,442000.0,25.0,DM,Paraguay,Nîmes Olympique
+Niclas Eliasson,7900.0,410800.0,25.0,AM RL,Sweden,Nîmes Olympique
+Lamine Fomba,7000.0,364000.0,23.0,DM,France,Nîmes Olympique
+Moussa Koné,6900.0,358800.0,24.0,"AM R, ST",Senegal,Nîmes Olympique
+Sidy Sarr,6600.0,343200.0,25.0,DM,Senegal,Nîmes Olympique
+Naomichi Ueda,5900.0,306800.0,26.0,D C,Japan,Nîmes Olympique
+Patrick Burner,5800.0,301600.0,25.0,D R,France,Nîmes Olympique
+Julien Ponceau,3100.0,161200.0,20.0,AM C,France,Nîmes Olympique
+Luca Dias,3000.0,156000.0,22.0,GK,France,Nîmes Olympique
+Karim Aribi,3000.0,156000.0,27.0,ST,Algeria,Nîmes Olympique
+Kelyan Guessoum,3000.0,156000.0,22.0,D RC,France,Nîmes Olympique
+Yassine Benrahou,2300.0,119600.0,22.0,AM RLC,Morocco,Nîmes Olympique
+Elías Már Ómarsson,2300.0,119600.0,26.0,"AM RLC, F C",Iceland,Nîmes Olympique
+Gäetan Paquiez,2200.0,114400.0,27.0,"D RL, DM",France,Nîmes Olympique
+Per Kristian Bråtveit,1800.0,93600.0,25.0,GK,Norway,Nîmes Olympique
+Antoine Valério,980.0,50960.0,21.0,DM,France,Nîmes Olympique
+Mahamadou Doucouré,900.0,46800.0,21.0,AM RC,Mali,Nîmes Olympique
+Théo Sainte-Luce,810.0,42120.0,22.0,D/WB L,France,Nîmes Olympique
+Arthur Pontet,690.0,35880.0,20.0,D C,France,Nîmes Olympique
+Amine Azzabi,510.0,26520.0,18.0,DM,France,Nîmes Olympique
+Arthur Panafieu,510.0,26520.0,19.0,"AM R, ST",France,Nîmes Olympique
+Amjhad Nazih,510.0,26520.0,19.0,GK,France,Nîmes Olympique
+Alexandre Ferreira,510.0,26520.0,22.0,D R,France,Nîmes Olympique
+Dorian Canetto,480.0,24960.0,20.0,D LC,France,Nîmes Olympique
+Enzo Philibert,470.0,24440.0,19.0,"D C, DM",France,Nîmes Olympique
+Elouan Collet,470.0,24440.0,19.0,GK,France,Nîmes Olympique
+Houssine Labiad,440.0,22880.0,21.0,ST,France,Nîmes Olympique
+Justin Kluivert,55000.0,2860000.0,22.0,AM RL,Holland,OGC Nice
+Kasper Dolberg,49000.0,2548000.0,23.0,"AM L, ST",Denmark,OGC Nice
+Morgan Schneiderlin,42000.0,2184000.0,31.0,DM,France,OGC Nice
+Mario Lemina,31000.0,1612000.0,27.0,DM,Gabon,OGC Nice
+Andy Delort,30000.0,1560000.0,29.0,ST,Algeria,OGC Nice
+Dante,27000.0,1404000.0,37.0,D C,Brazil,OGC Nice
+Youcef Atal,26000.0,1352000.0,25.0,D/WB/AM R,Algeria,OGC Nice
+Alexis Claude-Maurice,25000.0,1300000.0,23.0,AM RLC,France,OGC Nice
+Walter Benítez,23000.0,1196000.0,28.0,GK,Argentina,OGC Nice
+Jean-Clair Todibo,21000.0,1092000.0,21.0,D C,France,OGC Nice
+Amine Gouiri,21000.0,1092000.0,21.0,"AM L, ST",France,OGC Nice
+Calvin Stengs,19000.0,988000.0,22.0,AM RC,Holland,OGC Nice
+Pablo Rosario,18000.0,936000.0,24.0,"D C, DM",Holland,OGC Nice
+Hassane Kamara,17000.0,884000.0,27.0,D/WB/AM L,Ivory Coast,OGC Nice
+Jordan Lotomba,14000.0,728000.0,22.0,"D/WB RL, M R",Switzerland,OGC Nice
+Melvin Bard,12000.0,624000.0,20.0,D LC,France,OGC Nice
+Hicham Boudaoui,12000.0,624000.0,21.0,"DM, M RC",Algeria,OGC Nice
+Róbson Bambu,6700.0,348400.0,23.0,D C,Brazil,OGC Nice
+Deji Sotona,5400.0,280800.0,18.0,AM L,Ireland,OGC Nice
+Khephren Thuram,5000.0,260000.0,20.0,DM,France,OGC Nice
+Lucas Da Cunha,5000.0,260000.0,20.0,AM RL,France,OGC Nice
+Marcin Bułka,4900.0,254800.0,21.0,GK,Poland,OGC Nice
+Flavius Daniliuc,4300.0,223600.0,20.0,"D RC, DM",Austria,OGC Nice
+Evann Guessand,3300.0,171600.0,20.0,ST,France,OGC Nice
+Ihsan Sacko,3100.0,161200.0,23.0,"AM RC, F C",France,OGC Nice
+Azihard M'Changama,900.0,46800.0,20.0,DM,France,OGC Nice
+Belele Houimel,880.0,45760.0,20.0,D R,France,OGC Nice
+Gabriel Burkhalter,820.0,42640.0,19.0,D/WB R,France,OGC Nice
+Noah Crétier,780.0,40560.0,19.0,D C,France,OGC Nice
+Thomas Cipriano,710.0,36920.0,20.0,ST,France,OGC Nice
+Arkadiusz Milik,79000.0,4108000.0,27.0,ST,Poland,Olympique de Marseille
+Cengiz Ünder,78000.0,4056000.0,23.0,AM RLC,Turkey,Olympique de Marseille
+Pau López,63000.0,3276000.0,26.0,GK,Spain,Olympique de Marseille
+Dimitri Payet,55000.0,2860000.0,34.0,AM RLC,France,Olympique de Marseille
+Amine Harit,52000.0,2704000.0,24.0,AM LC,Morocco,Olympique de Marseille
+Gérson,50000.0,2600000.0,24.0,AM C,Brazil,Olympique de Marseille
+Matteo Guendouzi,49000.0,2548000.0,22.0,DM,France,Olympique de Marseille
+Steve Mandanda,49000.0,2548000.0,36.0,GK,France,Olympique de Marseille
+Jordan Amavi,49000.0,2548000.0,27.0,D/WB/M L,France,Olympique de Marseille
+Duje Ćaleta-Car,47000.0,2444000.0,24.0,D C,Croatia,Olympique de Marseille
+Boubacar Kamara,46000.0,2392000.0,21.0,"D C, DM",France,Olympique de Marseille
+Álvaro,41000.0,2132000.0,31.0,D RC,Spain,Olympique de Marseille
+Valentin Rongier,40000.0,2080000.0,26.0,DM,France,Olympique de Marseille
+William Saliba,36000.0,1872000.0,20.0,D C,France,Olympique de Marseille
+Luan Peres,28000.0,1456000.0,26.0,D LC,Brazil,Olympique de Marseille
+Pol Lirola,27000.0,1404000.0,23.0,D/WB/M R,Spain,Olympique de Marseille
+Leonardo Balerdi,25000.0,1300000.0,22.0,D C,Argentina,Olympique de Marseille
+Pape Gueye,23000.0,1196000.0,22.0,DM,France,Olympique de Marseille
+Luís Henrique,13000.0,676000.0,19.0,AM RL,Brazil,Olympique de Marseille
+Konrad De la Fuente,13000.0,676000.0,19.0,AM RL,U.S.A.,Olympique de Marseille
+Simon Ngapandouetnbu,2600.0,135200.0,18.0,GK,Cameroon,Olympique de Marseille
+Aaron Kamardin,1500.0,78000.0,19.0,"D C, DM",France,Olympique de Marseille
+Ugo Bertelli,1500.0,78000.0,17.0,M C,France,Olympique de Marseille
+Franco Tongya,1300.0,67600.0,19.0,AM RC,Italy,Olympique de Marseille
+Bamba Dieng,880.0,45760.0,21.0,ST,Senegal,Olympique de Marseille
+Corentin Milhau,870.0,45240.0,21.0,GK,France,Olympique de Marseille
+Clément Cordier,860.0,44720.0,19.0,DM,France,Olympique de Marseille
+Daouda Guèye,850.0,44200.0,25.0,ST,Senegal,Olympique de Marseille
+David Blaudet,840.0,43680.0,19.0,D C,France,Olympique de Marseille
+Tom Moustier,720.0,37440.0,19.0,D C,France,Olympique de Marseille
+Jérôme Boateng,82000.0,4264000.0,32.0,D C,Germany,Olympique Lyonnais
+Anthony Lopes,65000.0,3380000.0,30.0,GK,Portugal,Olympique Lyonnais
+Xherdan Shaqiri,65000.0,3380000.0,29.0,AM RLC,Switzerland,Olympique Lyonnais
+Houssem Aouar,62000.0,3224000.0,23.0,AM LC,France,Olympique Lyonnais
+Thiago Mendes,56000.0,2912000.0,29.0,DM,Brazil,Olympique Lyonnais
+Jason Denayer,53000.0,2756000.0,26.0,D C,Belgium,Olympique Lyonnais
+Moussa Dembélé,51000.0,2652000.0,24.0,ST,France,Olympique Lyonnais
+Islam Slimani,50000.0,2600000.0,33.0,ST,Algeria,Olympique Lyonnais
+Lucas Paquetá,49000.0,2548000.0,23.0,AM RC,Brazil,Olympique Lyonnais
+Emerson,44000.0,2288000.0,27.0,D/WB RL,Italy,Olympique Lyonnais
+Léo Dubois,39000.0,2028000.0,26.0,D/WB R,France,Olympique Lyonnais
+Karl Toko Ekambi,39000.0,2028000.0,28.0,"AM RL, ST",Cameroon,Olympique Lyonnais
+Marcelo,38000.0,1976000.0,34.0,D C,Brazil,Olympique Lyonnais
+Jeff Reine-Adélaïde,30000.0,1560000.0,23.0,AM RLC,France,Olympique Lyonnais
+Julian Pollersbeck,20000.0,1040000.0,26.0,GK,Germany,Olympique Lyonnais
+Pape Cheikh Diop,17000.0,884000.0,23.0,DM,Senegal,Olympique Lyonnais
+Tino Kadewere,17000.0,884000.0,25.0,"AM RC, F C",Zimbabwe,Olympique Lyonnais
+Damien Da Silva,16000.0,832000.0,33.0,"D C, DM",France,Olympique Lyonnais
+Maxence Caqueret,15000.0,780000.0,21.0,"DM, AM C",France,Olympique Lyonnais
+Rayan Cherki,14000.0,728000.0,17.0,"AM RLC, F C",France,Olympique Lyonnais
+Sinaly Diomandé,13000.0,676000.0,20.0,D C,Ivory Coast,Olympique Lyonnais
+Lenny Pintor,8000.0,416000.0,20.0,"AM RL, ST",France,Olympique Lyonnais
+Reo Griffiths,7700.0,400400.0,21.0,ST,England,Olympique Lyonnais
+Henrique,7200.0,374400.0,27.0,D/WB L,Brazil,Olympique Lyonnais
+Malo Gusto,1900.0,98800.0,18.0,"D/WB R, M C",France,Olympique Lyonnais
+Malcolm Barcola,1900.0,98800.0,22.0,GK,Togo,Olympique Lyonnais
+Florent Da Silva,900.0,46800.0,18.0,AM C,France,Olympique Lyonnais
+Habib Keita,880.0,45760.0,19.0,AM C,Mali,Olympique Lyonnais
+Castello Lukeba,870.0,45240.0,18.0,D C,France,Olympique Lyonnais
+Ousseynou Ndiaye,690.0,35880.0,22.0,"DM, AM C",Senegal,Olympique Lyonnais
+Lionel Messi,1000000.0,52000000.0,34.0,"AM RC, F C",Argentina,Paris Saint-Germain
+Neymar,602000.0,31304000.0,29.0,"AM LC, F C",Brazil,Paris Saint-Germain
+Kylian Mbappé,413000.0,21476000.0,22.0,"AM RL, ST",France,Paris Saint-Germain
+Marco Verratti,236000.0,12272000.0,28.0,DM,Italy,Paris Saint-Germain
+Marquinhos,236000.0,12272000.0,27.0,"D C, DM",Brazil,Paris Saint-Germain
+Sergio Ramos,223000.0,11596000.0,35.0,D C,Spain,Paris Saint-Germain
+Gianluigi Donnarumma,213000.0,11076000.0,22.0,GK,Italy,Paris Saint-Germain
+Keylor Navas,197000.0,10244000.0,34.0,GK,Costa Rica,Paris Saint-Germain
+Georginio Wijnaldum,180000.0,9360000.0,30.0,"DM, AM LC",Holland,Paris Saint-Germain
+Achraf Hakimi,170000.0,8840000.0,22.0,D/WB/M R,Morocco,Paris Saint-Germain
+Presnel Kimpembe,164000.0,8528000.0,25.0,D C,France,Paris Saint-Germain
+Mauro Icardi,157000.0,8164000.0,28.0,ST,Argentina,Paris Saint-Germain
+Leandro Paredes,148000.0,7696000.0,27.0,DM,Argentina,Paris Saint-Germain
+Ángel Di María,138000.0,7176000.0,33.0,AM RLC,Argentina,Paris Saint-Germain
+Juan Bernat,138000.0,7176000.0,28.0,D/WB/AM L,Spain,Paris Saint-Germain
+Ander Herrera,128000.0,6656000.0,31.0,DM,Spain,Paris Saint-Germain
+Idrissa Gueye,99000.0,5148000.0,31.0,DM,Senegal,Paris Saint-Germain
+Abdou Diallo,92000.0,4784000.0,25.0,D LC,France,Paris Saint-Germain
+Layvin Kurzawa,89000.0,4628000.0,28.0,D/WB L,France,Paris Saint-Germain
+Thilo Kehrer,78000.0,4056000.0,24.0,"D RC, DM",Germany,Paris Saint-Germain
+Danilo Pereira,76000.0,3952000.0,29.0,DM,Portugal,Paris Saint-Germain
+Rafinha,67000.0,3484000.0,28.0,AM RC,Brazil,Paris Saint-Germain
+Julian Draxler,59000.0,3068000.0,27.0,AM RLC,Germany,Paris Saint-Germain
+Sergio Rico,41000.0,2132000.0,27.0,GK,Spain,Paris Saint-Germain
+Colin Dagba,22000.0,1144000.0,22.0,D RL,France,Paris Saint-Germain
+Nuno Mendes,8900.0,462800.0,19.0,D/WB L,Portugal,Paris Saint-Germain
+Alexandre Letellier,7500.0,390000.0,30.0,GK,France,Paris Saint-Germain
+Eric Junior Dina Ebimbe,5300.0,275600.0,20.0,AM RC,France,Paris Saint-Germain
+Bandiougou Fadiga,1500.0,78000.0,20.0,M C,France,Paris Saint-Germain
+Xavi Simons,800.0,41600.0,18.0,DM,Holland,Paris Saint-Germain
+Séko Fofana,20000.0,1040000.0,26.0,DM,Ivory Coast,RC Lens
+Gaël Kakuta,15000.0,780000.0,30.0,AM RLC,DR Congo,RC Lens
+Arnaud Kalimuendo,13000.0,676000.0,19.0,ST,France,RC Lens
+Kevin Danso,13000.0,676000.0,22.0,D C,Austria,RC Lens
+Jean-Louis Leca,11000.0,572000.0,35.0,GK,France,RC Lens
+Ignatius Ganago,11000.0,572000.0,22.0,ST,Cameroon,RC Lens
+Deiver Machado,8400.0,436800.0,27.0,D/WB/M L,Colombia,RC Lens
+Florian Sotoca,8300.0,431600.0,30.0,"AM R, ST",France,RC Lens
+Jonathan Clauss,8100.0,421200.0,28.0,D/WB/AM R,France,RC Lens
+Yannick Cahuzac,8000.0,416000.0,36.0,DM,France,RC Lens
+Wesley Saïd,7000.0,364000.0,26.0,"AM L, ST",France,RC Lens
+Cheick Doucouré,6400.0,332800.0,21.0,DM,Mali,RC Lens
+Massadio Haïdara,5900.0,306800.0,28.0,D/WB L,Mali,RC Lens
+Przemysław Frankowski,5800.0,301600.0,26.0,"AM RC, F C",Poland,RC Lens
+Wuilker Fariñez,5400.0,280800.0,23.0,GK,Venezuela,RC Lens
+Jonathan Gradit,5100.0,265200.0,28.0,D RC,France,RC Lens
+Corentin Jean,4400.0,228800.0,25.0,"AM R, ST",France,RC Lens
+Facundo Medina,4300.0,223600.0,22.0,D LC,Argentina,RC Lens
+Samba Sow,3600.0,187200.0,32.0,DM,Mali,RC Lens
+Charles Boli,3400.0,176800.0,22.0,"AM RLC, F C",France,RC Lens
+David Pereira Da Costa,3400.0,176800.0,20.0,AM LC,Portugal,RC Lens
+Jules Keita,2100.0,109200.0,22.0,AM RL,Guinea,RC Lens
+Christopher Wooh,980.0,50960.0,19.0,D C,France,RC Lens
+Anis Hadj Moussa,910.0,47320.0,19.0,AM RLC,France,RC Lens
+Thibo Dupont,700.0,36400.0,19.0,ST,France,RC Lens
+Ibrahima Baldé,680.0,35360.0,18.0,ST,France,RC Lens
+Augustin Delbecque,650.0,33800.0,19.0,GK,France,RC Lens
+Ayanda Sishuba,650.0,33800.0,16.0,AM C,Belgium,RC Lens
+Adrien Louveau,650.0,33800.0,21.0,"D C, DM",France,RC Lens
+Brayann Pereira,640.0,33280.0,18.0,D R,France,RC Lens
+Frédéric Guilbert,27000.0,1404000.0,26.0,D/WB R,France,RC Strasbourg Alsace
+Habib Diallo,19000.0,988000.0,26.0,ST,Senegal,RC Strasbourg Alsace
+Kevin Gameiro,19000.0,988000.0,34.0,ST,France,RC Strasbourg Alsace
+Alexander Djiku,17000.0,884000.0,26.0,"D C, DM",Ghana,RC Strasbourg Alsace
+Matz Sels,17000.0,884000.0,29.0,GK,Belgium,RC Strasbourg Alsace
+Jean-Eudes Aholou,16000.0,832000.0,27.0,DM,Ivory Coast,RC Strasbourg Alsace
+Majeed Waris,15000.0,780000.0,29.0,"AM L, ST",Ghana,RC Strasbourg Alsace
+Adrien Thomasson,15000.0,780000.0,27.0,M LC,France,RC Strasbourg Alsace
+Ludovic Ajorque,14000.0,728000.0,27.0,ST,France,RC Strasbourg Alsace
+Dimitri Liénard,12000.0,624000.0,33.0,AM LC,France,RC Strasbourg Alsace
+Lebo Mothiba,12000.0,624000.0,25.0,ST,South Africa,RC Strasbourg Alsace
+Sanjin Prcic,12000.0,624000.0,27.0,DM,Bosnia & Herzegovina,RC Strasbourg Alsace
+Jean-Ricner Bellegarde,11000.0,572000.0,23.0,AM RC,France,RC Strasbourg Alsace
+Anthony Caci,9500.0,494000.0,24.0,"D RLC, DM",France,RC Strasbourg Alsace
+Gerzino Nyamsi,6200.0,322400.0,24.0,D RC,France,RC Strasbourg Alsace
+Maxime Le Marchand,5900.0,306800.0,31.0,D LC,France,RC Strasbourg Alsace
+Bingourou Kamara,4500.0,234000.0,24.0,GK,Senegal,RC Strasbourg Alsace
+Eiji Kawashima,4300.0,223600.0,38.0,GK,Japan,RC Strasbourg Alsace
+Ibrahima Sissoko,4100.0,213200.0,23.0,DM,France,RC Strasbourg Alsace
+Karol Fila,3000.0,156000.0,23.0,D/WB/M R,Poland,RC Strasbourg Alsace
+Lucas Perrin,1000.0,52000.0,22.0,"D C, DM",France,RC Strasbourg Alsace
+Doel Bonsu,830.0,43160.0,19.0,D L,France,RC Strasbourg Alsace
+Fredler Christophe,820.0,42640.0,19.0,AM RLC,Haiti,RC Strasbourg Alsace
+Moïse Sahi,700.0,36400.0,19.0,ST,Mali,RC Strasbourg Alsace
+Arthur Tirard-Collet,650.0,33800.0,16.0,GK,France,RC Strasbourg Alsace
+Alexandre Pierre,650.0,33800.0,20.0,GK,Haiti,RC Strasbourg Alsace
+Alexis Silva Ramos,650.0,33800.0,18.0,ST,France,RC Strasbourg Alsace
+Alaa Bellaarouch,650.0,33800.0,19.0,GK,Morocco,RC Strasbourg Alsace
+Benjamin Besic,640.0,33280.0,19.0,AM R,France,RC Strasbourg Alsace
+Habib Diarra,580.0,30160.0,17.0,AM RC,France,RC Strasbourg Alsace
+Ronaël Pierre-Gabriel,18000.0,936000.0,23.0,D/WB RL,France,Stade Brestois 29
+Jere Uronen,15000.0,780000.0,26.0,D/WB L,Finland,Stade Brestois 29
+Marco Bizot,11000.0,572000.0,30.0,GK,Holland,Stade Brestois 29
+Romain Del Castillo,10000.0,520000.0,25.0,"AM RL, ST",France,Stade Brestois 29
+Brendan Chardonnet,9500.0,494000.0,26.0,D C,France,Stade Brestois 29
+Steve Mounié,7600.0,395200.0,26.0,ST,Benin,Stade Brestois 29
+Franck Honorat,7300.0,379600.0,24.0,AM R,France,Stade Brestois 29
+Dénys Bain,6400.0,332800.0,28.0,"D C, DM",France,Stade Brestois 29
+Gautier Larsonneur,6200.0,322400.0,24.0,GK,France,Stade Brestois 29
+Haris Belkebla,6200.0,322400.0,27.0,DM,Algeria,Stade Brestois 29
+Jean-Kevin Duverne,6100.0,317200.0,24.0,D RC,France,Stade Brestois 29
+Irvin Cardona,6100.0,317200.0,23.0,"AM RL, ST",France,Stade Brestois 29
+Lucien Agoume,6000.0,312000.0,19.0,"DM, AM C",France,Stade Brestois 29
+Christophe Hérelle,5400.0,280800.0,28.0,D RC,France,Stade Brestois 29
+Julien Faussurier,5100.0,265200.0,34.0,D/WB/M R,France,Stade Brestois 29
+Lilian Brassier,4000.0,208000.0,21.0,D LC,France,Stade Brestois 29
+Romain Faivre,3700.0,192400.0,22.0,AM RLC,France,Stade Brestois 29
+Hugo Magnetti,3200.0,166400.0,23.0,AM C,France,Stade Brestois 29
+Youssouph Badji,2300.0,119600.0,19.0,ST,Senegal,Stade Brestois 29
+Jérémy Le Douaron,1100.0,57200.0,23.0,"AM RL, ST",France,Stade Brestois 29
+Hianga'a Mbock,830.0,43160.0,21.0,DM,France,Stade Brestois 29
+Sébastien Cibois,770.0,40040.0,23.0,GK,France,Stade Brestois 29
+Grégoire Coudert,740.0,38480.0,22.0,GK,France,Stade Brestois 29
+Tom Flamanc,670.0,34840.0,19.0,D L,France,Stade Brestois 29
+Aymeric Faurand-Tournaire,650.0,33800.0,17.0,GK,France,Stade Brestois 29
+Axel Camblan,650.0,33800.0,18.0,"AM R, ST",France,Stade Brestois 29
+Abdourahmane Thior,650.0,33800.0,19.0,M C,Senegal,Stade Brestois 29
+Benjamin Le Foll,640.0,33280.0,17.0,ST,France,Stade Brestois 29
+Brieg Le Bars,640.0,33280.0,19.0,D C,France,Stade Brestois 29
+Djibril Konté,620.0,32240.0,18.0,AM RL,France,Stade Brestois 29
+Arber Zeneli,14000.0,728000.0,26.0,AM RLC,Kosovo,Stade de Reims
+Valon Berisha,13000.0,676000.0,28.0,AM LC,Kosovo,Stade de Reims
+Yunis Abdelhamid,12000.0,624000.0,33.0,D C,Morocco,Stade de Reims
+Predrag Rajković,11000.0,572000.0,25.0,GK,Serbia,Stade de Reims
+Azor Matusiwa,9500.0,494000.0,23.0,"D/WB R, DM, M RC",Holland,Stade de Reims
+Tasos Donis,9000.0,468000.0,24.0,"AM L, ST",Greece,Stade de Reims
+Thomas Foket,9000.0,468000.0,26.0,D/WB/M R,Belgium,Stade de Reims
+Wout Faes,8400.0,436800.0,23.0,"D C, DM",Belgium,Stade de Reims
+Fraser Hornby,7300.0,379600.0,21.0,AM/F C,Scotland,Stade de Reims
+Mathieu Cafaro,6900.0,358800.0,24.0,AM RC,France,Stade de Reims
+Moreto Cassamá,6900.0,358800.0,23.0,AM C,Guinea-Bissau,Stade de Reims
+Moussa Doumbia,6900.0,358800.0,26.0,AM LC,Mali,Stade de Reims
+Ghislain Konan,6200.0,322400.0,25.0,D L,Ivory Coast,Stade de Reims
+Nicolas Penneteau,5900.0,306800.0,40.0,GK,France,Stade de Reims
+El Bilal Touré,4300.0,223600.0,19.0,ST,Mali,Stade de Reims
+Ilan Kebbal,4100.0,213200.0,23.0,AM RC,Algeria,Stade de Reims
+Mitchell van Bergen,3900.0,202800.0,21.0,AM R,Holland,Stade de Reims
+Nathanaël Mbuku,3900.0,202800.0,19.0,AM RC,France,Stade de Reims
+Marshall Munetsi,2900.0,150800.0,25.0,DM,Zimbabwe,Stade de Reims
+Alexis Flips,2500.0,130000.0,21.0,AM R,France,Stade de Reims
+Andreaw Gravillon,1500.0,78000.0,23.0,D C,Guadeloupe,Stade de Reims
+Dion Lopy,990.0,51480.0,19.0,DM,Senegal,Stade de Reims
+Hugo Ekitike,850.0,44200.0,19.0,"AM RL, ST",France,Stade de Reims
+Ephraïm Tshibwabwa,820.0,42640.0,20.0,D L,Congo,Stade de Reims
+Fahem Benaissa-Yahia,820.0,42640.0,19.0,ST,France,Stade de Reims
+Ayoub Ben Amar,650.0,33800.0,19.0,ST,France,Stade de Reims
+Yacine Aoujil,650.0,33800.0,19.0,AM R,France,Stade de Reims
+Bourama Diarra,640.0,33280.0,21.0,D L,Mali,Stade de Reims
+Bradley Locko,640.0,33280.0,19.0,D/WB L,France,Stade de Reims
+Brayan Beaumont,640.0,33280.0,18.0,AM C,France,Stade de Reims
+Benjamin Bourigeaud,31000.0,1612000.0,27.0,AM RC,France,Stade Rennais FC
+Gaëtan Laborde,27000.0,1404000.0,27.0,"AM R, ST",France,Stade Rennais FC
+Flavien Tait,26000.0,1352000.0,28.0,AM LC,France,Stade Rennais FC
+Jonas Martin,24000.0,1248000.0,31.0,AM C,France,Stade Rennais FC
+Birger Meling,23000.0,1196000.0,26.0,D/WB/M L,Norway,Stade Rennais FC
+Lovro Majer,22000.0,1144000.0,23.0,AM C,Croatia,Stade Rennais FC
+Loïc Badé,20000.0,1040000.0,21.0,D C,France,Stade Rennais FC
+Martin Terrier,19000.0,988000.0,24.0,"AM RLC, F C",France,Stade Rennais FC
+Serhou Guirassy,18000.0,936000.0,25.0,"AM L, ST",France,Stade Rennais FC
+Alfred Gomis,17000.0,884000.0,27.0,GK,Senegal,Stade Rennais FC
+Baptiste Santamaria,16000.0,832000.0,26.0,"DM, AM C",France,Stade Rennais FC
+Hamari Traoré,13000.0,676000.0,29.0,D/WB R,Mali,Stade Rennais FC
+Jérémy Doku,13000.0,676000.0,19.0,"AM RL, ST",Belgium,Stade Rennais FC
+Jérémy Gélin,13000.0,676000.0,24.0,"D C, DM",France,Stade Rennais FC
+Romain Salin,12000.0,624000.0,36.0,GK,France,Stade Rennais FC
+Nayef Aguerd,8900.0,462800.0,25.0,D C,Morocco,Stade Rennais FC
+Kamaldeen Sulemana,6000.0,312000.0,19.0,AM L,Ghana,Stade Rennais FC
+Adrien Truffert,4500.0,234000.0,19.0,D/M L,France,Stade Rennais FC
+Doğan Alemdar,2400.0,124800.0,18.0,GK,Turkey,Stade Rennais FC
+Antoine Nugent,900.0,46800.0,19.0,M C,France,Stade Rennais FC
+Metehan Güçlü,900.0,46800.0,22.0,ST,Turkey,Stade Rennais FC
+Boubacar Diakhaby,890.0,46280.0,19.0,ST,France,Stade Rennais FC
+Pépé Bonet,680.0,35360.0,18.0,GK,DR Congo,Stade Rennais FC
+Andy Diouf,650.0,33800.0,18.0,AM C,France,Stade Rennais FC
+Alan Do Marcolino,650.0,33800.0,19.0,ST,France,Stade Rennais FC
+Dann-Faustin Banzuzi,620.0,32240.0,19.0,D C,France,Stade Rennais FC
+Elias Damergy,610.0,31720.0,18.0,GK,Tunisia,Stade Rennais FC
+Junior Kadile,560.0,29120.0,18.0,AM R,France,Stade Rennais FC
+Kylian Gasnier,550.0,28600.0,19.0,AM R,France,Stade Rennais FC
+Lorenz Assignon,540.0,28080.0,21.0,D R,France,Stade Rennais FC
